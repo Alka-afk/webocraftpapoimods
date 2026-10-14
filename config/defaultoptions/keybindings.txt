@@ -1,1 +1,0 @@
-key_keys.eclipticseasons.main/debug:key.keyboard.n:CONTROL
