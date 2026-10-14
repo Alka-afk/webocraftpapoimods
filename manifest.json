@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-14T17:43:57.999Z",
+  "generatedAt": "2026-10-14T17:53:29.804Z",
   "minecraft": {
     "version": "26.1.2",
     "loader": {
@@ -1234,7 +1234,7 @@
     {
       "path": "versions/neoforge-26.1.2.97/neoforge-26.1.2.97.json",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/versions/neoforge-26.1.2.97/neoforge-26.1.2.97.json",
-      "sha256": "f85a8e6d438ad6521d0d707c3194782c910b343c0a690657003a6d8c2237b4ce"
+      "sha256": "247993b2116c5cb523dada749c68d34f46183540036c13be863010922c3fc805"
     }
   ]
 }
