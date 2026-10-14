@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-14T05:12:34.300Z",
+  "generatedAt": "2026-10-14T05:15:34.296Z",
   "minecraft": {
     "version": "26.1.2",
     "loader": {
@@ -15,975 +15,975 @@
   "files": [
     {
       "path": "mods/mcw-windows-2.4.2-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/964/mcw-windows-2.4.2-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-windows-2.4.2-mc26.1neoforge.jar"
     },
     {
       "path": "mods/wakes-26.1.2-NeoForge-1.4.1.jar",
-      "url": "https://edge.forgecdn.net/files/8657/119/wakes-26.1.2-NeoForge-1.4.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/wakes-26.1.2-NeoForge-1.4.1.jar"
     },
     {
       "path": "mods/chat_heads-1.2.8-neoforge-26.1.jar",
-      "url": "https://edge.forgecdn.net/files/8610/121/chat_heads-1.2.8-neoforge-26.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/chat_heads-1.2.8-neoforge-26.1.jar"
     },
     {
       "path": "mods/punchy-2.7d-neoforge-26.1-26.1.1-26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8697/214/punchy-2.7d-neoforge-26.1-26.1.1-26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/punchy-2.7d-neoforge-26.1-26.1.1-26.1.2.jar"
     },
     {
       "path": "mods/craftingstationjei-26.1.1-NeoForge-2.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/7935/864/craftingstationjei-26.1.1-NeoForge-2.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/craftingstationjei-26.1.1-NeoForge-2.1.2.jar"
     },
     {
       "path": "mods/sophisticatedbackpacks-26.1.2-3.25.90.2106.jar",
-      "url": "https://edge.forgecdn.net/files/8687/818/sophisticatedbackpacks-26.1.2-3.25.90.2106.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sophisticatedbackpacks-26.1.2-3.25.90.2106.jar"
     },
     {
       "path": "mods/getittogetherdrops-neoforge-26.1.1-1.5.jar",
-      "url": "https://edge.forgecdn.net/files/7884/707/getittogetherdrops-neoforge-26.1.1-1.5.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/getittogetherdrops-neoforge-26.1.1-1.5.jar"
     },
     {
       "path": "mods/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8036/435/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/luminax-2.0.1+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8087/216/luminax-2.0.1%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/luminax-2.0.1+26.1.2.jar"
     },
     {
       "path": "mods/open-parties-and-claims-neoforge-26.1.2-0.30.3.jar",
-      "url": "https://edge.forgecdn.net/files/8690/648/open-parties-and-claims-neoforge-26.1.2-0.30.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/open-parties-and-claims-neoforge-26.1.2-0.30.3.jar"
     },
     {
       "path": "mods/transmog-neoforge-1.8.0+26.1.jar",
-      "url": "https://edge.forgecdn.net/files/8125/263/transmog-neoforge-1.8.0%2b26.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/transmog-neoforge-1.8.0+26.1.jar"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.9.4+26.1-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8196/581/yet_another_config_lib_v3-3.9.4%2b26.1-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/yet_another_config_lib_v3-3.9.4+26.1-neoforge.jar"
     },
     {
       "path": "mods/shrink-neoforge-26.1.2-2.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8078/360/shrink-neoforge-26.1.2-2.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/shrink-neoforge-26.1.2-2.1.1.jar"
     },
     {
       "path": "mods/mcw-doors-1.1.5-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/925/mcw-doors-1.1.5-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-doors-1.1.5-mc26.1neoforge.jar"
     },
     {
       "path": "mods/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
-      "url": "https://edge.forgecdn.net/files/8269/733/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
     },
     {
       "path": "mods/lithostitched-1.8.0+beta4-neoforge-26.1.jar",
-      "url": "https://edge.forgecdn.net/files/8659/782/lithostitched-1.8.0%2bbeta4-neoforge-26.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/lithostitched-1.8.0+beta4-neoforge-26.1.jar"
     },
     {
       "path": "mods/collective-26.1.2-8.32.jar",
-      "url": "https://edge.forgecdn.net/files/8317/567/collective-26.1.2-8.32.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/collective-26.1.2-8.32.jar"
     },
     {
       "path": "mods/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
-      "url": "https://edge.forgecdn.net/files/8692/947/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar"
     },
     {
       "path": "mods/xaeroworldmap-neoforge-26.1.2-1.45.0.jar",
-      "url": "https://edge.forgecdn.net/files/8698/694/xaeroworldmap-neoforge-26.1.2-1.45.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/xaeroworldmap-neoforge-26.1.2-1.45.0.jar"
     },
     {
       "path": "mods/curios-neoforge-15.0.0+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8463/519/curios-neoforge-15.0.0%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/curios-neoforge-15.0.0+26.1.2.jar"
     },
     {
       "path": "mods/disconnect-packet-fix-neoforge-2.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8173/380/disconnect-packet-fix-neoforge-2.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/disconnect-packet-fix-neoforge-2.1.1.jar"
     },
     {
       "path": "mods/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/8109/770/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
     },
     {
       "path": "mods/yamlconfig-neoforge-20.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8188/610/yamlconfig-neoforge-20.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/yamlconfig-neoforge-20.1.2.jar"
     },
     {
       "path": "mods/YungsBetterJungleTemples-26.1.2-NeoForge-4.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/807/YungsBetterJungleTemples-26.1.2-NeoForge-4.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterJungleTemples-26.1.2-NeoForge-4.1.0.jar"
     },
     {
       "path": "mods/buildinggadgets2-1.4.6.jar",
-      "url": "https://edge.forgecdn.net/files/7964/119/buildinggadgets2-1.4.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/buildinggadgets2-1.4.6.jar"
     },
     {
       "path": "mods/Glodium-26.1-1.2-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8196/173/Glodium-26.1-1.2-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Glodium-26.1-1.2-neoforge.jar"
     },
     {
       "path": "mods/AppliedFlux-26.1-1.0.1-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8512/902/AppliedFlux-26.1-1.0.1-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/AppliedFlux-26.1-1.0.1-neoforge.jar"
     },
     {
       "path": "mods/pipe_connector-neoforge-0.6.8.jar",
-      "url": "https://edge.forgecdn.net/files/8495/214/pipe_connector-neoforge-0.6.8.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/pipe_connector-neoforge-0.6.8.jar"
     },
     {
       "path": "mods/refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
-      "url": "https://edge.forgecdn.net/files/7943/178/refurbished_furniture-neoforge-26.1.2-1.0.23.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/refurbished_furniture-neoforge-26.1.2-1.0.23.jar"
     },
     {
       "path": "mods/ConstructionSticks-26.1.2-3.1.4.jar",
-      "url": "https://edge.forgecdn.net/files/8625/982/ConstructionSticks-26.1.2-3.1.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ConstructionSticks-26.1.2-3.1.4.jar"
     },
     {
       "path": "mods/Enhanced-Celestials-2-Shaders-NeoForge-26.1.2-3.0.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/8687/297/Enhanced-Celestials-2-Shaders-NeoForge-26.1.2-3.0.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Enhanced-Celestials-2-Shaders-NeoForge-26.1.2-3.0.0.2.jar"
     },
     {
       "path": "mods/ftb-ranks-neoforge-26.1.2.3.jar",
-      "url": "https://edge.forgecdn.net/files/8525/871/ftb-ranks-neoforge-26.1.2.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-ranks-neoforge-26.1.2.3.jar"
     },
     {
       "path": "mods/EclipticSeasons-26.1.2-neoforge-0.14.99-beta-2.jar",
-      "url": "https://edge.forgecdn.net/files/8690/433/EclipticSeasons-26.1.2-neoforge-0.14.99-beta-2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/EclipticSeasons-26.1.2-neoforge-0.14.99-beta-2.jar"
     },
     {
       "path": "mods/ftb-filter-system-neoforge-26.1.2.2.jar",
-      "url": "https://edge.forgecdn.net/files/8300/191/ftb-filter-system-neoforge-26.1.2.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-filter-system-neoforge-26.1.2.2.jar"
     },
     {
       "path": "mods/jei_biome-26.1.2-neoforge-1.6fix.jar",
-      "url": "https://edge.forgecdn.net/files/8644/772/jei_biome-26.1.2-neoforge-1.6fix.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/jei_biome-26.1.2-neoforge-1.6fix.jar"
     },
     {
       "path": "mods/YungsBetterDungeons-26.1.2-NeoForge-6.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/765/YungsBetterDungeons-26.1.2-NeoForge-6.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterDungeons-26.1.2-NeoForge-6.1.0.jar"
     },
     {
       "path": "mods/Fancy_Beds-v4.1.zip",
-      "url": "https://edge.forgecdn.net/files/7148/803/Fancy_Beds-v4.1.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Fancy_Beds-v4.1.zip"
     },
     {
       "path": "mods/appleskin-neoforge-mc26.1-3.0.9.jar",
-      "url": "https://edge.forgecdn.net/files/7854/456/appleskin-neoforge-mc26.1-3.0.9.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/appleskin-neoforge-mc26.1-3.0.9.jar"
     },
     {
       "path": "mods/netherportalfix-neoforge-26.1-26.1.0.1.jar",
-      "url": "https://edge.forgecdn.net/files/7812/877/netherportalfix-neoforge-26.1-26.1.0.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/netherportalfix-neoforge-26.1-26.1.0.1.jar"
     },
     {
       "path": "mods/Searchables-neoforge-26.1.2-1.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/8218/526/Searchables-neoforge-26.1.2-1.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Searchables-neoforge-26.1.2-1.0.2.jar"
     },
     {
       "path": "mods/YungsBetterWitchHuts-26.1.2-NeoForge-5.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/832/YungsBetterWitchHuts-26.1.2-NeoForge-5.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterWitchHuts-26.1.2-NeoForge-5.1.0.jar"
     },
     {
       "path": "mods/ftb-quests-neoforge-26.1.2.6.jar",
-      "url": "https://edge.forgecdn.net/files/8685/228/ftb-quests-neoforge-26.1.2.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-quests-neoforge-26.1.2.6.jar"
     },
     {
       "path": "mods/bookoffamiliars-neoforge-26.1.2-2.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8143/372/bookoffamiliars-neoforge-26.1.2-2.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/bookoffamiliars-neoforge-26.1.2-2.1.1.jar"
     },
     {
       "path": "mods/ctm-26.1.2.6.jar",
-      "url": "https://edge.forgecdn.net/files/8721/10/ctm-26.1.2.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ctm-26.1.2.6.jar"
     },
     {
       "path": "mods/ToolStats-neoforge-MC26.1.2-26.1.2.3.jar",
-      "url": "https://edge.forgecdn.net/files/8269/716/ToolStats-neoforge-MC26.1.2-26.1.2.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ToolStats-neoforge-MC26.1.2-26.1.2.3.jar"
     },
     {
       "path": "mods/DimStorage-26.1.2-10.0.1.jar",
-      "url": "https://edge.forgecdn.net/files/7961/622/DimStorage-26.1.2-10.0.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/DimStorage-26.1.2-10.0.1.jar"
     },
     {
       "path": "mods/FreshAnimations_v1.10.5.zip",
-      "url": "https://edge.forgecdn.net/files/7854/681/FreshAnimations_v1.10.5.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/FreshAnimations_v1.10.5.zip"
     },
     {
       "path": "mods/ComplementaryUnbound_r5.8.1.zip",
-      "url": "https://edge.forgecdn.net/files/8123/288/ComplementaryUnbound_r5.8.1.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ComplementaryUnbound_r5.8.1.zip"
     },
     {
       "path": "mods/epherolib-neoforge-26.1-1.3.0.jar",
-      "url": "https://edge.forgecdn.net/files/7937/982/epherolib-neoforge-26.1-1.3.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/epherolib-neoforge-26.1-1.3.0.jar"
     },
     {
       "path": "mods/ftb-library-neoforge-26.1.2.7.jar",
-      "url": "https://edge.forgecdn.net/files/8574/542/ftb-library-neoforge-26.1.2.7.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-library-neoforge-26.1.2.7.jar"
     },
     {
       "path": "mods/ftb-teams-neoforge-26.1.2.4.jar",
-      "url": "https://edge.forgecdn.net/files/8074/3/ftb-teams-neoforge-26.1.2.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-teams-neoforge-26.1.2.4.jar"
     },
     {
       "path": "mods/OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8004/645/OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/utilitarian-26.1.2-0.22.0.jar",
-      "url": "https://edge.forgecdn.net/files/8216/931/utilitarian-26.1.2-0.22.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/utilitarian-26.1.2-0.22.0.jar"
     },
     {
       "path": "mods/iris-neoforge-1.11.3+mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8571/918/iris-neoforge-1.11.3%2bmc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/iris-neoforge-1.11.3+mc26.1.2.jar"
     },
     {
       "path": "mods/Fine Armoury v1.8.zip",
-      "url": "https://edge.forgecdn.net/files/8058/232/Fine%20Armoury%20v1.8.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Fine Armoury v1.8.zip"
     },
     {
       "path": "mods/aeinfinitybooster-neoforge-26.1.2-1.0.0.57.jar",
-      "url": "https://edge.forgecdn.net/files/8132/173/aeinfinitybooster-neoforge-26.1.2-1.0.0.57.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/aeinfinitybooster-neoforge-26.1.2-1.0.0.57.jar"
     },
     {
       "path": "mods/fancymenu_neoforge_3.9.10_MC_26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8652/295/fancymenu_neoforge_3.9.10_MC_26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/fancymenu_neoforge_3.9.10_MC_26.1.2.jar"
     },
     {
       "path": "mods/PingHUD-5.0.jar",
-      "url": "https://edge.forgecdn.net/files/7808/101/PingHUD-5.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/PingHUD-5.0.jar"
     },
     {
       "path": "mods/framework-neoforge-26.1.2-0.13.23.jar",
-      "url": "https://edge.forgecdn.net/files/7964/506/framework-neoforge-26.1.2-0.13.23.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/framework-neoforge-26.1.2-0.13.23.jar"
     },
     {
       "path": "mods/FA+Player-v1.1.zip",
-      "url": "https://edge.forgecdn.net/files/8245/230/FA%2bPlayer-v1.1.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/FA+Player-v1.1.zip"
     },
     {
       "path": "mods/nanite-library-neoforge-26.1.2.6.jar",
-      "url": "https://edge.forgecdn.net/files/7986/696/nanite-library-neoforge-26.1.2.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/nanite-library-neoforge-26.1.2.6.jar"
     },
     {
       "path": "mods/EternalNether-v26.1.4-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8218/522/EternalNether-v26.1.4-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/EternalNether-v26.1.4-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/geckolib-neoforge-26.1.2-5.5.2.jar",
-      "url": "https://edge.forgecdn.net/files/8327/201/geckolib-neoforge-26.1.2-5.5.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/geckolib-neoforge-26.1.2-5.5.2.jar"
     },
     {
       "path": "mods/justenoughrecipesharing-neoforge-26.1.2-1.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8570/331/justenoughrecipesharing-neoforge-26.1.2-1.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/justenoughrecipesharing-neoforge-26.1.2-1.1.2.jar"
     },
     {
       "path": "mods/kotlinforforge-6.2.0-all.jar",
-      "url": "https://edge.forgecdn.net/files/7736/203/kotlinforforge-6.2.0-all.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/kotlinforforge-6.2.0-all.jar"
     },
     {
       "path": "mods/waystones-neoforge-26.1.2-26.1.2.14.jar",
-      "url": "https://edge.forgecdn.net/files/8646/818/waystones-neoforge-26.1.2-26.1.2.14.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/waystones-neoforge-26.1.2-26.1.2.14.jar"
     },
     {
       "path": "mods/xaerominimap-neoforge-26.1.2-26.4.2.jar",
-      "url": "https://edge.forgecdn.net/files/8449/857/xaerominimap-neoforge-26.1.2-26.4.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/xaerominimap-neoforge-26.1.2-26.4.2.jar"
     },
     {
       "path": "mods/modernfix-neoforge-5.27.20+mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8459/799/modernfix-neoforge-5.27.20%2bmc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/modernfix-neoforge-5.27.20+mc26.1.2.jar"
     },
     {
       "path": "mods/athena-4.7.3.jar",
-      "url": "https://edge.forgecdn.net/files/7970/442/athena-4.7.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/athena-4.7.3.jar"
     },
     {
       "path": "mods/irons_jewelry-26.1.2-2.0.2.1.jar",
-      "url": "https://edge.forgecdn.net/files/8432/928/irons_jewelry-26.1.2-2.0.2.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/irons_jewelry-26.1.2-2.0.2.1.jar"
     },
     {
       "path": "mods/mcw-paths-1.1.1-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/974/mcw-paths-1.1.1-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-paths-1.1.1-mc26.1neoforge.jar"
     },
     {
       "path": "mods/neovitae-26.1.2-1.1.15.jar",
-      "url": "https://edge.forgecdn.net/files/8725/5/neovitae-26.1.2-1.1.15.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/neovitae-26.1.2-1.1.15.jar"
     },
     {
       "path": "mods/irons_artifice-0.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8715/148/irons_artifice-0.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/irons_artifice-0.1.1.jar"
     },
     {
       "path": "mods/BHMenu-NeoForge-26.1-2.4.4.jar",
-      "url": "https://edge.forgecdn.net/files/8021/692/BHMenu-NeoForge-26.1-2.4.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/BHMenu-NeoForge-26.1-2.4.4.jar"
     },
     {
       "path": "mods/crystalix-4.1.0+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8229/127/crystalix-4.1.0%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/crystalix-4.1.0+26.1.2.jar"
     },
     {
       "path": "mods/functionalstorage-26.1.2-1.6.1.jar",
-      "url": "https://edge.forgecdn.net/files/8723/367/functionalstorage-26.1.2-1.6.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/functionalstorage-26.1.2-1.6.1.jar"
     },
     {
       "path": "mods/crafting_on_a_stick-neoforge-26.1-1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8381/262/crafting_on_a_stick-neoforge-26.1-1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/crafting_on_a_stick-neoforge-26.1-1.1.jar"
     },
     {
       "path": "mods/modonomicon-26.1.2-neoforge-2.3.0.jar",
-      "url": "https://edge.forgecdn.net/files/8594/747/modonomicon-26.1.2-neoforge-2.3.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/modonomicon-26.1.2-neoforge-2.3.0.jar"
     },
     {
       "path": "mods/justdirethings-1.6.11.jar",
-      "url": "https://edge.forgecdn.net/files/8251/776/justdirethings-1.6.11.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/justdirethings-1.6.11.jar"
     },
     {
       "path": "mods/OpenTogether-v26.1.0-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8236/258/OpenTogether-v26.1.0-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/OpenTogether-v26.1.0-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/better-advanced-tooltips-2601.1.0-build.9.jar",
-      "url": "https://edge.forgecdn.net/files/8568/911/better-advanced-tooltips-2601.1.0-build.9.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/better-advanced-tooltips-2601.1.0-build.9.jar"
     },
     {
       "path": "mods/AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/7976/888/AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar"
     },
     {
       "path": "mods/enderio_endergy-9.0.1-alpha.jar",
-      "url": "https://edge.forgecdn.net/files/8017/163/enderio_endergy-9.0.1-alpha.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/enderio_endergy-9.0.1-alpha.jar"
     },
     {
       "path": "mods/Jade-mc26.1-NeoForge-26.1.10.jar",
-      "url": "https://edge.forgecdn.net/files/8651/70/Jade-mc26.1-NeoForge-26.1.10.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Jade-mc26.1-NeoForge-26.1.10.jar"
     },
     {
       "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar"
     },
     {
       "path": "mods/occultism-26.1.2-neoforge-1.248.1.jar",
-      "url": "https://edge.forgecdn.net/files/8697/637/occultism-26.1.2-neoforge-1.248.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/occultism-26.1.2-neoforge-1.248.1.jar"
     },
     {
       "path": "mods/laserio-1.10.2.jar",
-      "url": "https://edge.forgecdn.net/files/8030/110/laserio-1.10.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/laserio-1.10.2.jar"
     },
     {
       "path": "mods/shogi-neoforge-26.1.2-26.1.2.8.jar",
-      "url": "https://edge.forgecdn.net/files/8645/595/shogi-neoforge-26.1.2-26.1.2.8.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/shogi-neoforge-26.1.2-26.1.2.8.jar"
     },
     {
       "path": "mods/jumpboat-26.1.2-1.0.6.jar",
-      "url": "https://edge.forgecdn.net/files/7931/619/jumpboat-26.1.2-1.0.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/jumpboat-26.1.2-1.0.6.jar"
     },
     {
       "path": "mods/PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8581/757/PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/balm-neoforge-26.1.2-26.1.2.12.jar",
-      "url": "https://edge.forgecdn.net/files/8645/640/balm-neoforge-26.1.2-26.1.2.12.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/balm-neoforge-26.1.2-26.1.2.12.jar"
     },
     {
       "path": "mods/Enhanced-Celestials-2-Core-NeoForge-26.1.2-3.0.3.0.jar",
-      "url": "https://edge.forgecdn.net/files/8704/55/Enhanced-Celestials-2-Core-NeoForge-26.1.2-3.0.3.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Enhanced-Celestials-2-Core-NeoForge-26.1.2-3.0.3.0.jar"
     },
     {
       "path": "mods/dataanchor-neoforge-26.1.2-4.0.0.6.jar",
-      "url": "https://edge.forgecdn.net/files/8629/343/dataanchor-neoforge-26.1.2-4.0.0.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/dataanchor-neoforge-26.1.2-4.0.0.6.jar"
     },
     {
       "path": "mods/BetterKeys.zip",
-      "url": "https://edge.forgecdn.net/files/8050/616/BetterKeys.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/BetterKeys.zip"
     },
     {
       "path": "mods/JustEnoughResources-NeoForge-26.1.2-1.10.1.40.jar",
-      "url": "https://edge.forgecdn.net/files/8522/652/JustEnoughResources-NeoForge-26.1.2-1.10.1.40.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/JustEnoughResources-NeoForge-26.1.2-1.10.1.40.jar"
     },
     {
       "path": "mods/CrashAssistant-neoforge-26.1-1.11.12.jar",
-      "url": "https://edge.forgecdn.net/files/8636/696/CrashAssistant-neoforge-26.1-1.11.12.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/CrashAssistant-neoforge-26.1-1.11.12.jar"
     },
     {
       "path": "mods/croptopia-neoforge-26.1.2-4.3.1.jar",
-      "url": "https://edge.forgecdn.net/files/8085/81/croptopia-neoforge-26.1.2-4.3.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/croptopia-neoforge-26.1.2-4.3.1.jar"
     },
     {
       "path": "mods/YungsBetterCaves-26.1.2-NeoForge-4.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8522/499/YungsBetterCaves-26.1.2-NeoForge-4.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterCaves-26.1.2-NeoForge-4.1.1.jar"
     },
     {
       "path": "mods/melody_neoforge_1.0.16_MC_26.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/7875/755/melody_neoforge_1.0.16_MC_26.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/melody_neoforge_1.0.16_MC_26.1.1.jar"
     },
     {
       "path": "mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-26.1.2-3.0.0.4.jar",
-      "url": "https://edge.forgecdn.net/files/8704/57/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-26.1.2-3.0.0.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-26.1.2-3.0.0.4.jar"
     },
     {
       "path": "mods/NaturesCompass-26.1-3.3.0-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7808/597/NaturesCompass-26.1-3.3.0-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/NaturesCompass-26.1-3.3.0-neoforge.jar"
     },
     {
       "path": "mods/uilib-neoforge-20.1.4.jar",
-      "url": "https://edge.forgecdn.net/files/8371/384/uilib-neoforge-20.1.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/uilib-neoforge-20.1.4.jar"
     },
     {
       "path": "mods/Measurements-neoforge-26.1-4.0.0.jar",
-      "url": "https://edge.forgecdn.net/files/7819/739/Measurements-neoforge-26.1-4.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Measurements-neoforge-26.1-4.0.0.jar"
     },
     {
       "path": "mods/FA+Spiders-v2.2.zip",
-      "url": "https://edge.forgecdn.net/files/7999/323/FA%2bSpiders-v2.2.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/FA+Spiders-v2.2.zip"
     },
     {
       "path": "mods/guideme-26.1.12-beta.jar",
-      "url": "https://edge.forgecdn.net/files/8204/880/guideme-26.1.12-beta.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/guideme-26.1.12-beta.jar"
     },
     {
       "path": "mods/YungsBetterEndIsland-26.1.2-NeoForge-4.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/822/YungsBetterEndIsland-26.1.2-NeoForge-4.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterEndIsland-26.1.2-NeoForge-4.1.0.jar"
     },
     {
       "path": "mods/theurgy-26.1.2-neoforge-1.114.0.jar",
-      "url": "https://edge.forgecdn.net/files/8494/185/theurgy-26.1.2-neoforge-1.114.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/theurgy-26.1.2-neoforge-1.114.0.jar"
     },
     {
       "path": "mods/konkrete_neoforge_1.10.1_MC_26.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/7891/762/konkrete_neoforge_1.10.1_MC_26.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/konkrete_neoforge_1.10.1_MC_26.1.1.jar"
     },
     {
       "path": "mods/camol-26.1.2-0.4.1.jar",
-      "url": "https://edge.forgecdn.net/files/8080/581/camol-26.1.2-0.4.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/camol-26.1.2-0.4.1.jar"
     },
     {
       "path": "mods/Fancy Crops v1.3.zip",
-      "url": "https://edge.forgecdn.net/files/7094/29/Fancy%20Crops%20v1.3.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Fancy Crops v1.3.zip"
     },
     {
       "path": "mods/farmingforblockheads-neoforge-26.1.2-26.1.2.3.jar",
-      "url": "https://edge.forgecdn.net/files/8545/425/farmingforblockheads-neoforge-26.1.2-26.1.2.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/farmingforblockheads-neoforge-26.1.2-26.1.2.3.jar"
     },
     {
       "path": "mods/jei-26.1.2-neoforge-29.29.0.77.jar",
-      "url": "https://edge.forgecdn.net/files/8676/45/jei-26.1.2-neoforge-29.29.0.77.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/jei-26.1.2-neoforge-29.29.0.77.jar"
     },
     {
       "path": "mods/lithium-neoforge-0.24.7+mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8533/275/lithium-neoforge-0.24.7%2bmc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/lithium-neoforge-0.24.7+mc26.1.2.jar"
     },
     {
       "path": "mods/reliquary-26.1.2-2.0.92.1563.jar",
-      "url": "https://edge.forgecdn.net/files/8661/858/reliquary-26.1.2-2.0.92.1563.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/reliquary-26.1.2-2.0.92.1563.jar"
     },
     {
       "path": "mods/EclipticSeasons-Bundles-0.18.0.jar",
-      "url": "https://edge.forgecdn.net/files/8350/348/EclipticSeasons-Bundles-0.18.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/EclipticSeasons-Bundles-0.18.0.jar"
     },
     {
       "path": "mods/appliedenergistics2-26.1.10-beta.jar",
-      "url": "https://edge.forgecdn.net/files/8257/570/appliedenergistics2-26.1.10-beta.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/appliedenergistics2-26.1.10-beta.jar"
     },
     {
       "path": "mods/tools-on-my-back-1.1.0+26.1+neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8567/25/tools-on-my-back-1.1.0%2b26.1%2bneoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/tools-on-my-back-1.1.0+26.1+neoforge.jar"
     },
     {
       "path": "mods/AdvancedAE-26.1.7.jar",
-      "url": "https://edge.forgecdn.net/files/8603/81/AdvancedAE-26.1.7.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/AdvancedAE-26.1.7.jar"
     },
     {
       "path": "mods/cloth-config-26.1.154.jar",
-      "url": "https://edge.forgecdn.net/files/7817/583/cloth-config-26.1.154.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/cloth-config-26.1.154.jar"
     },
     {
       "path": "mods/plonk-26.1.2-10.0.10-neo.jar",
-      "url": "https://edge.forgecdn.net/files/8572/541/plonk-26.1.2-10.0.10-neo.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/plonk-26.1.2-10.0.10-neo.jar"
     },
     {
       "path": "mods/sound-physics-remastered-neoforge-1.5.1+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/7903/186/sound-physics-remastered-neoforge-1.5.1%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sound-physics-remastered-neoforge-1.5.1+26.1.2.jar"
     },
     {
       "path": "mods/YungsBetterStrongholds-26.1.2-NeoForge-6.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/758/YungsBetterStrongholds-26.1.2-NeoForge-6.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterStrongholds-26.1.2-NeoForge-6.1.0.jar"
     },
     {
       "path": "mods/Controlling-neoforge-26.1.2-26.1.2.4.jar",
-      "url": "https://edge.forgecdn.net/files/8199/1/Controlling-neoforge-26.1.2-26.1.2.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Controlling-neoforge-26.1.2-26.1.2.4.jar"
     },
     {
       "path": "mods/logisticsnetworks-26.1.2-1.9.0.jar",
-      "url": "https://edge.forgecdn.net/files/8419/32/logisticsnetworks-26.1.2-1.9.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/logisticsnetworks-26.1.2-1.9.0.jar"
     },
     {
       "path": "mods/arc-neoforge-20.2.10.jar",
-      "url": "https://edge.forgecdn.net/files/8567/639/arc-neoforge-20.2.10.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/arc-neoforge-20.2.10.jar"
     },
     {
       "path": "mods/JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/7966/706/JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar"
     },
     {
       "path": "mods/BiomesOPlenty-neoforge-26.1.2-26.1.2.0.21.jar",
-      "url": "https://edge.forgecdn.net/files/8239/932/BiomesOPlenty-neoforge-26.1.2-26.1.2.0.21.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/BiomesOPlenty-neoforge-26.1.2-26.1.2.0.21.jar"
     },
     {
       "path": "mods/Clumps-neoforge-26.1.2-26.1.2.1.jar",
-      "url": "https://edge.forgecdn.net/files/7911/758/Clumps-neoforge-26.1.2-26.1.2.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Clumps-neoforge-26.1.2-26.1.2.1.jar"
     },
     {
       "path": "mods/IllagerInvasion-v26.1.0-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8031/805/IllagerInvasion-v26.1.0-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/IllagerInvasion-v26.1.0-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/kubejs-neoforge-26.1.2-8.0.4.jar",
-      "url": "https://edge.forgecdn.net/files/8495/199/kubejs-neoforge-26.1.2-8.0.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/kubejs-neoforge-26.1.2-8.0.4.jar"
     },
     {
       "path": "mods/mcw-lights-1.1.5-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/968/mcw-lights-1.1.5-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-lights-1.1.5-mc26.1neoforge.jar"
     },
     {
       "path": "mods/ae2importexportcard-26.1.2-2.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/8519/408/ae2importexportcard-26.1.2-2.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ae2importexportcard-26.1.2-2.0.2.jar"
     },
     {
       "path": "mods/c2me-neoforge-mc26.1.2-0.4.0-alpha.0.98.jar",
-      "url": "https://edge.forgecdn.net/files/8646/487/c2me-neoforge-mc26.1.2-0.4.0-alpha.0.98.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/c2me-neoforge-mc26.1.2-0.4.0-alpha.0.98.jar"
     },
     {
       "path": "mods/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8708/203/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar"
     },
     {
       "path": "mods/paginatedadvancements-2.8.2+26.1-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7999/817/paginatedadvancements-2.8.2%2b26.1-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/paginatedadvancements-2.8.2+26.1-neoforge.jar"
     },
     {
       "path": "mods/CoffeeGUI_1.20.2-26.1_release_v2.1.1.zip",
-      "url": "https://edge.forgecdn.net/files/7947/176/CoffeeGUI_1.20.2-26.1_release_v2.1.1.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/CoffeeGUI_1.20.2-26.1_release_v2.1.1.zip"
     },
     {
       "path": "mods/mcw-roofs-2.3.2-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/972/mcw-roofs-2.3.2-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-roofs-2.3.2-mc26.1neoforge.jar"
     },
     {
       "path": "mods/leaderboards-26.1.2-NeoForge-2.0.4.jar",
-      "url": "https://edge.forgecdn.net/files/8201/379/leaderboards-26.1.2-NeoForge-2.0.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/leaderboards-26.1.2-NeoForge-2.0.4.jar"
     },
     {
       "path": "mods/Better SB Upgrades-V1.2.zip",
-      "url": "https://edge.forgecdn.net/files/7933/510/Better%20SB%20Upgrades-V1.2.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Better SB Upgrades-V1.2.zip"
     },
     {
       "path": "mods/entityculling-neoforge-1.10.5-mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8287/117/entityculling-neoforge-1.10.5-mc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/entityculling-neoforge-1.10.5-mc26.1.2.jar"
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.15.3+26.1.jar",
-      "url": "https://edge.forgecdn.net/files/8348/737/ImmediatelyFast-NeoForge-1.15.3%2b26.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ImmediatelyFast-NeoForge-1.15.3+26.1.jar"
     },
     {
       "path": "mods/atlas_api-26.1.2-1.2.0.jar",
-      "url": "https://edge.forgecdn.net/files/8237/338/atlas_api-26.1.2-1.2.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/atlas_api-26.1.2-1.2.0.jar"
     },
     {
       "path": "mods/Ecologics-NeoFab-26.1.2-2.5.3.jar",
-      "url": "https://edge.forgecdn.net/files/8309/126/Ecologics-NeoFab-26.1.2-2.5.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Ecologics-NeoFab-26.1.2-2.5.3.jar"
     },
     {
       "path": "mods/onlyflax-26.1.2-neoforge-1.0.4.jar",
-      "url": "https://edge.forgecdn.net/files/8050/473/onlyflax-26.1.2-neoforge-1.0.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/onlyflax-26.1.2-neoforge-1.0.4.jar"
     },
     {
       "path": "mods/FastSuite-26.1.2-7.0.0.jar",
-      "url": "https://edge.forgecdn.net/files/8251/41/FastSuite-26.1.2-7.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/FastSuite-26.1.2-7.0.0.jar"
     },
     {
       "path": "mods/ApothicAttributes-26.1.2-3.0.1.jar",
-      "url": "https://edge.forgecdn.net/files/8182/592/ApothicAttributes-26.1.2-3.0.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ApothicAttributes-26.1.2-3.0.1.jar"
     },
     {
       "path": "mods/rhino-2101.2.8-build.91.jar",
-      "url": "https://edge.forgecdn.net/files/8463/898/rhino-2101.2.8-build.91.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/rhino-2101.2.8-build.91.jar"
     },
     {
       "path": "mods/MouseTweaks-neoforge-mc26.1-2.31.jar",
-      "url": "https://edge.forgecdn.net/files/7840/778/MouseTweaks-neoforge-mc26.1-2.31.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/MouseTweaks-neoforge-mc26.1-2.31.jar"
     },
     {
       "path": "mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8698/967/ExtendedAE-26.1-1.0.4-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ExtendedAE-26.1-1.0.4-neoforge.jar"
     },
     {
       "path": "mods/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
-      "url": "https://edge.forgecdn.net/files/8384/529/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
     },
     {
       "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
-      "url": "https://edge.forgecdn.net/files/7886/369/t_and_t-fabric-neoforge-1.13.11.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/t_and_t-fabric-neoforge-1.13.11.jar"
     },
     {
       "path": "mods/YungsApi-26.1.2-NeoForge-6.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8685/896/YungsApi-26.1.2-NeoForge-6.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsApi-26.1.2-NeoForge-6.1.2.jar"
     },
     {
       "path": "mods/YungsBetterMineshafts-26.1.2-NeoForge-6.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8309/61/YungsBetterMineshafts-26.1.2-NeoForge-6.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterMineshafts-26.1.2-NeoForge-6.1.0.jar"
     },
     {
       "path": "mods/ApothicSpawners-26.1.2-2.0.1.jar",
-      "url": "https://edge.forgecdn.net/files/8529/719/ApothicSpawners-26.1.2-2.0.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ApothicSpawners-26.1.2-2.0.1.jar"
     },
     {
       "path": "mods/titanium-26.1.2-4.0.8.jar",
-      "url": "https://edge.forgecdn.net/files/8671/128/titanium-26.1.2-4.0.8.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/titanium-26.1.2-4.0.8.jar"
     },
     {
       "path": "mods/mru-1.0.33+26.1.2-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8617/114/mru-1.0.33%2b26.1.2-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mru-1.0.33+26.1.2-neoforge.jar"
     },
     {
       "path": "mods/voicechat-neoforge-2.6.22+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8601/510/voicechat-neoforge-2.6.22%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/voicechat-neoforge-2.6.22+26.1.2.jar"
     },
     {
       "path": "mods/better-compatability-checker-neoforge-26.1.2.1.jar",
-      "url": "https://edge.forgecdn.net/files/7905/240/better-compatability-checker-neoforge-26.1.2.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/better-compatability-checker-neoforge-26.1.2.1.jar"
     },
     {
       "path": "mods/shatterlib-neoforge-0.7.0+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8252/649/shatterlib-neoforge-0.7.0%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/shatterlib-neoforge-0.7.0+26.1.2.jar"
     },
     {
       "path": "mods/solcarrot-26.1-1.19.0.jar",
-      "url": "https://edge.forgecdn.net/files/7810/780/solcarrot-26.1-1.19.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/solcarrot-26.1-1.19.0.jar"
     },
     {
       "path": "mods/irons_lib-26.1.2-2.1.0.3.jar",
-      "url": "https://edge.forgecdn.net/files/8678/532/irons_lib-26.1.2-2.1.0.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/irons_lib-26.1.2-2.1.0.3.jar"
     },
     {
       "path": "mods/sodium-neoforge-0.9.1+mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8396/481/sodium-neoforge-0.9.1%2bmc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sodium-neoforge-0.9.1+mc26.1.2.jar"
     },
     {
       "path": "mods/ApothicEnchanting-26.1.2-2.0.0.jar",
-      "url": "https://edge.forgecdn.net/files/8171/92/ApothicEnchanting-26.1.2-2.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ApothicEnchanting-26.1.2-2.0.0.jar"
     },
     {
       "path": "mods/ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar",
-      "url": "https://edge.forgecdn.net/files/8375/713/ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar"
     },
     {
       "path": "mods/mcw-bridges-3.1.2-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/923/mcw-bridges-3.1.2-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-bridges-3.1.2-mc26.1neoforge.jar"
     },
     {
       "path": "mods/Placebo-26.1.2-10.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/8502/256/Placebo-26.1.2-10.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Placebo-26.1.2-10.0.2.jar"
     },
     {
       "path": "mods/polylib-neoforge-26.1.2-2.0.11.jar",
-      "url": "https://edge.forgecdn.net/files/8596/523/polylib-neoforge-26.1.2-2.0.11.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/polylib-neoforge-26.1.2-2.0.11.jar"
     },
     {
       "path": "mods/Aquaculture-26.1.1-2.9.2.jar",
-      "url": "https://edge.forgecdn.net/files/8192/770/Aquaculture-26.1.1-2.9.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Aquaculture-26.1.1-2.9.2.jar"
     },
     {
       "path": "mods/beautifiedchatserver-26.1.2-3.2.jar",
-      "url": "https://edge.forgecdn.net/files/8212/221/beautifiedchatserver-26.1.2-3.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/beautifiedchatserver-26.1.2-3.2.jar"
     },
     {
       "path": "mods/jearchaeology-26.1.2-1.3.0.jar",
-      "url": "https://edge.forgecdn.net/files/8525/687/jearchaeology-26.1.2-1.3.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/jearchaeology-26.1.2-1.3.0.jar"
     },
     {
       "path": "mods/inventoryessentials-neoforge-26.1.2-26.1.2.5.jar",
-      "url": "https://edge.forgecdn.net/files/8697/2/inventoryessentials-neoforge-26.1.2-26.1.2.5.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/inventoryessentials-neoforge-26.1.2-26.1.2.5.jar"
     },
     {
       "path": "mods/spark-1.10.173-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8275/631/spark-1.10.173-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/spark-1.10.173-neoforge.jar"
     },
     {
       "path": "mods/little-big-redstone-1.9.8-alpha-26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8550/648/little-big-redstone-1.9.8-alpha-26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/little-big-redstone-1.9.8-alpha-26.1.2.jar"
     },
     {
       "path": "mods/mcw-trapdoors-1.1.5-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/970/mcw-trapdoors-1.1.5-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-trapdoors-1.1.5-mc26.1neoforge.jar"
     },
     {
       "path": "mods/YungsBridges-26.1.2-NeoForge-6.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/848/YungsBridges-26.1.2-NeoForge-6.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBridges-26.1.2-NeoForge-6.1.0.jar"
     },
     {
       "path": "mods/Boss Bars Reforged v1.2.zip",
-      "url": "https://edge.forgecdn.net/files/7965/669/Boss%20Bars%20Reforged%20v1.2.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Boss Bars Reforged v1.2.zip"
     },
     {
       "path": "mods/ferritecore-9.0.0-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7806/39/ferritecore-9.0.0-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ferritecore-9.0.0-neoforge.jar"
     },
     {
       "path": "mods/fwa+26.1.2-neoforge-1.2.30.jar",
-      "url": "https://edge.forgecdn.net/files/8218/682/fwa%2b26.1.2-neoforge-1.2.30.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/fwa+26.1.2-neoforge-1.2.30.jar"
     },
     {
       "path": "mods/itempeek-mc26.1.2-1.2.0.jar",
-      "url": "https://edge.forgecdn.net/files/8591/211/itempeek-mc26.1.2-1.2.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/itempeek-mc26.1.2-1.2.0.jar"
     },
     {
       "path": "mods/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8127/306/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar"
     },
     {
       "path": "mods/starcatcher-2.3.14-NEOFORGE-26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8183/439/starcatcher-2.3.14-NEOFORGE-26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/starcatcher-2.3.14-NEOFORGE-26.1.2.jar"
     },
     {
       "path": "mods/trade-cycling-neoforge-1.0.21+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8020/647/trade-cycling-neoforge-1.0.21%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/trade-cycling-neoforge-1.0.21+26.1.2.jar"
     },
     {
       "path": "mods/Powah-7.0.4-alpha.jar",
-      "url": "https://edge.forgecdn.net/files/8025/339/Powah-7.0.4-alpha.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Powah-7.0.4-alpha.jar"
     },
     {
       "path": "mods/fancytoasts-neoforge-26.1.x-1.4.7.jar",
-      "url": "https://edge.forgecdn.net/files/8119/759/fancytoasts-neoforge-26.1.x-1.4.7.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/fancytoasts-neoforge-26.1.x-1.4.7.jar"
     },
     {
       "path": "mods/sounds-2.5.1+lts+26.1.2-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8343/36/sounds-2.5.1%2blts%2b26.1.2-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sounds-2.5.1+lts+26.1.2-neoforge.jar"
     },
     {
       "path": "mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8127/472/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
     },
     {
       "path": "mods/nerb-neoforge-0.4.3+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8279/6/nerb-neoforge-0.4.3%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/nerb-neoforge-0.4.3+26.1.2.jar"
     },
     {
       "path": "mods/YungsBetterDesertTemples-26.1.2-NeoForge-5.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/776/YungsBetterDesertTemples-26.1.2-NeoForge-5.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterDesertTemples-26.1.2-NeoForge-5.1.0.jar"
     },
     {
       "path": "mods/mechtrowel-1.3.1.jar",
-      "url": "https://edge.forgecdn.net/files/7983/714/mechtrowel-1.3.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mechtrowel-1.3.1.jar"
     },
     {
       "path": "mods/ftb-ultimine-neoforge-26.1.2.5.jar",
-      "url": "https://edge.forgecdn.net/files/8231/335/ftb-ultimine-neoforge-26.1.2.5.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-ultimine-neoforge-26.1.2.5.jar"
     },
     {
       "path": "mods/just-hammers-neoforge-26.1.2.1.jar",
-      "url": "https://edge.forgecdn.net/files/7958/494/just-hammers-neoforge-26.1.2.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/just-hammers-neoforge-26.1.2.1.jar"
     },
     {
       "path": "mods/PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar",
-      "url": "https://edge.forgecdn.net/files/8397/189/PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar"
     },
     {
       "path": "mods/configured-neoforge-26.1.2-2.7.5.jar",
-      "url": "https://edge.forgecdn.net/files/7943/180/configured-neoforge-26.1.2-2.7.5.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/configured-neoforge-26.1.2-2.7.5.jar"
     },
     {
       "path": "mods/darkmodeeverywhere-neoforge-26.1.2-26.1.2-2.0.0.jar",
-      "url": "https://edge.forgecdn.net/files/8351/344/darkmodeeverywhere-neoforge-26.1.2-26.1.2-2.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/darkmodeeverywhere-neoforge-26.1.2-26.1.2-2.0.0.jar"
     },
     {
       "path": "mods/ftb-essentials-neoforge-26.1.2.4.jar",
-      "url": "https://edge.forgecdn.net/files/8187/9/ftb-essentials-neoforge-26.1.2.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/ftb-essentials-neoforge-26.1.2.4.jar"
     },
     {
       "path": "mods/Visual Titles 1.3.zip",
-      "url": "https://edge.forgecdn.net/files/7619/105/Visual%20Titles%201.3.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Visual Titles 1.3.zip"
     },
     {
       "path": "mods/animal_pen-neoforge-26.1-2.4.3.jar",
-      "url": "https://edge.forgecdn.net/files/8340/375/animal_pen-neoforge-26.1-2.4.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/animal_pen-neoforge-26.1-2.4.3.jar"
     },
     {
       "path": "mods/mcw-fences-1.2.1-mc26.1neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/7809/939/mcw-fences-1.2.1-mc26.1neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/mcw-fences-1.2.1-mc26.1neoforge.jar"
     },
     {
       "path": "mods/PickUpNotifier-v26.1.1-mc26.1.x-NeoForge.jar",
-      "url": "https://edge.forgecdn.net/files/8004/596/PickUpNotifier-v26.1.1-mc26.1.x-NeoForge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/PickUpNotifier-v26.1.1-mc26.1.x-NeoForge.jar"
     },
     {
       "path": "mods/cristellib-neoforge-26.1.2-3.1.11.jar",
-      "url": "https://edge.forgecdn.net/files/8452/324/cristellib-neoforge-26.1.2-3.1.11.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/cristellib-neoforge-26.1.2-3.1.11.jar"
     },
     {
       "path": "mods/catalogue-neoforge-26.1.2-1.12.3.jar",
-      "url": "https://edge.forgecdn.net/files/7943/161/catalogue-neoforge-26.1.2-1.12.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/catalogue-neoforge-26.1.2-1.12.3.jar"
     },
     {
       "path": "mods/chatanimation-neoforge-1.3.0+mc26.1.jar",
-      "url": "https://edge.forgecdn.net/files/8375/990/chatanimation-neoforge-1.3.0%2bmc26.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/chatanimation-neoforge-1.3.0+mc26.1.jar"
     },
     {
       "path": "mods/EdivadLib-26.1.2-4.0.1.jar",
-      "url": "https://edge.forgecdn.net/files/7961/578/EdivadLib-26.1.2-4.0.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/EdivadLib-26.1.2-4.0.1.jar"
     },
     {
       "path": "mods/moredragoneggs-6.0.jar",
-      "url": "https://edge.forgecdn.net/files/7945/781/moredragoneggs-6.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/moredragoneggs-6.0.jar"
     },
     {
       "path": "mods/flickerfix-26.1-7.0.0.jar",
-      "url": "https://edge.forgecdn.net/files/7808/426/flickerfix-26.1-7.0.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/flickerfix-26.1-7.0.0.jar"
     },
     {
       "path": "mods/tectonic-3.0.27-neoforge-26.1.jar",
-      "url": "https://edge.forgecdn.net/files/8366/293/tectonic-3.0.27-neoforge-26.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/tectonic-3.0.27-neoforge-26.1.jar"
     },
     {
       "path": "mods/entity_texture_features_26.1-neoforge-7.1.jar",
-      "url": "https://edge.forgecdn.net/files/7930/640/entity_texture_features_26.1-neoforge-7.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/entity_texture_features_26.1-neoforge-7.1.jar"
     },
     {
       "path": "mods/CoffeeGUI_JustTheHotbar_v03.zip",
-      "url": "https://edge.forgecdn.net/files/7947/547/CoffeeGUI_JustTheHotbar_v03.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/CoffeeGUI_JustTheHotbar_v03.zip"
     },
     {
       "path": "mods/AI-Improvements-26.1.1-0.5.4.jar",
-      "url": "https://edge.forgecdn.net/files/7878/374/AI-Improvements-26.1.1-0.5.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/AI-Improvements-26.1.1-0.5.4.jar"
     },
     {
       "path": "mods/GatewaysToEternity-26.1.2-6.0.2.jar",
-      "url": "https://edge.forgecdn.net/files/8502/258/GatewaysToEternity-26.1.2-6.0.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/GatewaysToEternity-26.1.2-6.0.2.jar"
     },
     {
       "path": "mods/sophisticatedstorage-26.1.2-1.5.112.2123.jar",
-      "url": "https://edge.forgecdn.net/files/8687/885/sophisticatedstorage-26.1.2-1.5.112.2123.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sophisticatedstorage-26.1.2-1.5.112.2123.jar"
     },
     {
       "path": "mods/waveycapes-neoforge-1.10.2-mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8294/892/waveycapes-neoforge-1.10.2-mc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/waveycapes-neoforge-1.10.2-mc26.1.2.jar"
     },
     {
       "path": "mods/globalpacks-neoforge-26.1-26.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/7819/553/globalpacks-neoforge-26.1-26.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/globalpacks-neoforge-26.1-26.1.0.jar"
     },
     {
       "path": "mods/YungsBetterOceanMonuments-26.1.2-NeoForge-5.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/787/YungsBetterOceanMonuments-26.1.2-NeoForge-5.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterOceanMonuments-26.1.2-NeoForge-5.1.0.jar"
     },
     {
       "path": "mods/lootr-neoforge-26.1.2-1.23.38.120.jar",
-      "url": "https://edge.forgecdn.net/files/8483/817/lootr-neoforge-26.1.2-1.23.38.120.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/lootr-neoforge-26.1.2-1.23.38.120.jar"
     },
     {
       "path": "mods/betterarcheology-neoforge-26.1.2-1.3.8.jar",
-      "url": "https://edge.forgecdn.net/files/8577/326/betterarcheology-neoforge-26.1.2-1.3.8.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/betterarcheology-neoforge-26.1.2-1.3.8.jar"
     },
     {
       "path": "mods/Brush+Juice-5.4.0.zip",
-      "url": "https://edge.forgecdn.net/files/8230/145/Brush%2bJuice-5.4.0.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Brush+Juice-5.4.0.zip"
     },
     {
       "path": "mods/artifacts-neoforge-15.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8683/973/artifacts-neoforge-15.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/artifacts-neoforge-15.1.2.jar"
     },
     {
       "path": "mods/baguettelib-26.1.2-NeoForge-2.0.4.jar",
-      "url": "https://edge.forgecdn.net/files/8010/963/baguettelib-26.1.2-NeoForge-2.0.4.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/baguettelib-26.1.2-NeoForge-2.0.4.jar"
     },
     {
       "path": "mods/chisel-26.1.2.17.jar",
-      "url": "https://edge.forgecdn.net/files/8688/521/chisel-26.1.2.17.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/chisel-26.1.2.17.jar"
     },
     {
       "path": "mods/sophisticatedcore-26.1.2-1.4.104.2314.jar",
-      "url": "https://edge.forgecdn.net/files/8705/495/sophisticatedcore-26.1.2-1.4.104.2314.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sophisticatedcore-26.1.2-1.4.104.2314.jar"
     },
     {
       "path": "mods/MakeUp-UltraFast-9.5a.zip",
-      "url": "https://edge.forgecdn.net/files/8081/726/MakeUp-UltraFast-9.5a.zip"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/MakeUp-UltraFast-9.5a.zip"
     },
     {
       "path": "mods/Apotheosis-26.1.2-9.0.3.jar",
-      "url": "https://edge.forgecdn.net/files/8502/264/Apotheosis-26.1.2-9.0.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/Apotheosis-26.1.2-9.0.3.jar"
     },
     {
       "path": "mods/reskillable-2.0.3-26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8658/826/reskillable-2.0.3-26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/reskillable-2.0.3-26.1.2.jar"
     },
     {
       "path": "mods/YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/796/YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.0.jar"
     },
     {
       "path": "mods/entity_model_features-3.2.4-26.1-neoforge.jar",
-      "url": "https://edge.forgecdn.net/files/8063/579/entity_model_features-3.2.4-26.1-neoforge.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/entity_model_features-3.2.4-26.1-neoforge.jar"
     },
     {
       "path": "mods/graveless-neoforge-26.1.2-1.3.1.jar",
-      "url": "https://edge.forgecdn.net/files/8679/719/graveless-neoforge-26.1.2-1.3.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/graveless-neoforge-26.1.2-1.3.1.jar"
     },
     {
       "path": "mods/SimpleDiscordRichPresence-neoforge-26.1.2.1.jar",
-      "url": "https://edge.forgecdn.net/files/7958/434/SimpleDiscordRichPresence-neoforge-26.1.2.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/SimpleDiscordRichPresence-neoforge-26.1.2.1.jar"
     },
     {
       "path": "mods/YungsExtras-26.1.2-NeoForge-6.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8313/845/YungsExtras-26.1.2-NeoForge-6.1.0.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsExtras-26.1.2-NeoForge-6.1.0.jar"
     },
     {
       "path": "mods/crashutilities-10.0.1.jar",
-      "url": "https://edge.forgecdn.net/files/7923/31/crashutilities-10.0.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/crashutilities-10.0.1.jar"
     },
     {
       "path": "mods/elevatorid-neoforge-26.1-1.16.2.jar",
-      "url": "https://edge.forgecdn.net/files/7830/638/elevatorid-neoforge-26.1-1.16.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/elevatorid-neoforge-26.1-1.16.2.jar"
     },
     {
       "path": "mods/itemrestrictions-neoforge-20.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8249/940/itemrestrictions-neoforge-20.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/itemrestrictions-neoforge-20.1.2.jar"
     },
     {
       "path": "mods/WaystonesTeleportPets-1.2-neoforge-26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/7974/152/WaystonesTeleportPets-1.2-neoforge-26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/WaystonesTeleportPets-1.2-neoforge-26.1.2.jar"
     },
     {
       "path": "mods/knot-neoforge-core-20.2.2.jar",
-      "url": "https://edge.forgecdn.net/files/8553/438/knot-neoforge-core-20.2.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/knot-neoforge-core-20.2.2.jar"
     },
     {
       "path": "mods/lighty-neoforge-4.0.1+26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8118/229/lighty-neoforge-4.0.1%2b26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/lighty-neoforge-4.0.1+26.1.2.jar"
     },
     {
       "path": "mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
-      "url": "https://edge.forgecdn.net/files/8697/35/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar"
     },
     {
       "path": "mods/sodium-extra-neoforge-0.9.3+mc26.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8404/376/sodium-extra-neoforge-0.9.3%2bmc26.1.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/sodium-extra-neoforge-0.9.3+mc26.1.2.jar"
     },
     {
       "path": "mods/architectury-neoforge-20.0.12.jar",
-      "url": "https://edge.forgecdn.net/files/8513/969/architectury-neoforge-20.0.12.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/architectury-neoforge-20.0.12.jar"
     },
     {
       "path": "mods/FramedBlocks-11.3.3.jar",
-      "url": "https://edge.forgecdn.net/files/8371/586/FramedBlocks-11.3.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/FramedBlocks-11.3.3.jar"
     },
     {
       "path": "mods/AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
-      "url": "https://edge.forgecdn.net/files/8383/507/AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar"
     },
     {
       "path": "mods/defaultoptions-neoforge-26.1.2-26.1.2.2.jar",
-      "url": "https://edge.forgecdn.net/files/8498/224/defaultoptions-neoforge-26.1.2-26.1.2.2.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/defaultoptions-neoforge-26.1.2-26.1.2.2.jar"
     },
     {
       "path": "mods/enderio-9.0.5-alpha.jar",
-      "url": "https://edge.forgecdn.net/files/8192/909/enderio-9.0.5-alpha.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/enderio-9.0.5-alpha.jar"
     },
     {
       "path": "mods/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
-      "url": "https://edge.forgecdn.net/files/8686/283/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar"
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar"
     }
   ]
 }
