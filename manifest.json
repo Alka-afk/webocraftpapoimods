@@ -1,0 +1,1478 @@
+{
+  "minecraft": {
+    "version": "26.1.2",
+    "modLoaders": [
+      {
+        "id": "neoforge-26.1.2.97",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "craftoria-2",
+  "version": "0.11.0",
+  "author": "TeamAOE",
+  "projectID": 0,
+  "files": [
+    {
+      "projectID": 363569,
+      "fileID": 7809964,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/964/mcw-windows-2.4.2-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1223529,
+      "fileID": 8657119,
+      "downloadUrl": "https://edge.forgecdn.net/files/8657/119/wakes-26.1.2-NeoForge-1.4.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 407206,
+      "fileID": 8610121,
+      "downloadUrl": "https://edge.forgecdn.net/files/8610/121/chat_heads-1.2.8-neoforge-26.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1374153,
+      "fileID": 8697214,
+      "downloadUrl": "https://edge.forgecdn.net/files/8697/214/punchy-2.7d-neoforge-26.1-26.1.1-26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1127715,
+      "fileID": 7935864,
+      "downloadUrl": "https://edge.forgecdn.net/files/7935/864/craftingstationjei-26.1.1-NeoForge-2.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 422301,
+      "fileID": 8687818,
+      "downloadUrl": "https://edge.forgecdn.net/files/8687/818/sophisticatedbackpacks-26.1.2-3.25.90.2106.jar",
+      "required": true
+    },
+    {
+      "projectID": 411045,
+      "fileID": 7884707,
+      "downloadUrl": "https://edge.forgecdn.net/files/7884/707/getittogetherdrops-neoforge-26.1.1-1.5.jar",
+      "required": true
+    },
+    {
+      "projectID": 686435,
+      "fileID": 8036435,
+      "downloadUrl": "https://edge.forgecdn.net/files/8036/435/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1165932,
+      "fileID": 8087216,
+      "downloadUrl": "https://edge.forgecdn.net/files/8087/216/luminax-2.0.1%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 636608,
+      "fileID": 8690648,
+      "downloadUrl": "https://edge.forgecdn.net/files/8690/648/open-parties-and-claims-neoforge-26.1.2-0.30.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 848032,
+      "fileID": 8125263,
+      "downloadUrl": "https://edge.forgecdn.net/files/8125/263/transmog-neoforge-1.8.0%2b26.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 8196581,
+      "downloadUrl": "https://edge.forgecdn.net/files/8196/581/yet_another_config_lib_v3-3.9.4%2b26.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 426386,
+      "fileID": 8078360,
+      "downloadUrl": "https://edge.forgecdn.net/files/8078/360/shrink-neoforge-26.1.2-2.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 378646,
+      "fileID": 7809925,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/925/mcw-doors-1.1.5-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 492246,
+      "fileID": 8269733,
+      "downloadUrl": "https://edge.forgecdn.net/files/8269/733/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 936015,
+      "fileID": 8659782,
+      "downloadUrl": "https://edge.forgecdn.net/files/8659/782/lithostitched-1.8.0%2bbeta4-neoforge-26.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 342584,
+      "fileID": 8317567,
+      "downloadUrl": "https://edge.forgecdn.net/files/8317/567/collective-26.1.2-8.32.jar",
+      "required": true
+    },
+    {
+      "projectID": 250419,
+      "fileID": 8692947,
+      "downloadUrl": "https://edge.forgecdn.net/files/8692/947/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 8698694,
+      "downloadUrl": "https://edge.forgecdn.net/files/8698/694/xaeroworldmap-neoforge-26.1.2-1.45.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 309927,
+      "fileID": 8463519,
+      "downloadUrl": "https://edge.forgecdn.net/files/8463/519/curios-neoforge-15.0.0%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1173964,
+      "fileID": 8173380,
+      "downloadUrl": "https://edge.forgecdn.net/files/8173/380/disconnect-packet-fix-neoforge-2.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 955399,
+      "fileID": 8109770,
+      "downloadUrl": "https://edge.forgecdn.net/files/8109/770/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1128669,
+      "fileID": 8188610,
+      "downloadUrl": "https://edge.forgecdn.net/files/8188/610/yamlconfig-neoforge-20.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 897669,
+      "fileID": 8313807,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/807/YungsBetterJungleTemples-26.1.2-NeoForge-4.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 298187,
+      "fileID": 7964119,
+      "downloadUrl": "https://edge.forgecdn.net/files/7964/119/buildinggadgets2-1.4.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 957920,
+      "fileID": 8196173,
+      "downloadUrl": "https://edge.forgecdn.net/files/8196/173/Glodium-26.1-1.2-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 965012,
+      "fileID": 8512902,
+      "downloadUrl": "https://edge.forgecdn.net/files/8512/902/AppliedFlux-26.1-1.0.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 846168,
+      "fileID": 8495214,
+      "downloadUrl": "https://edge.forgecdn.net/files/8495/214/pipe_connector-neoforge-0.6.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 897116,
+      "fileID": 7943178,
+      "downloadUrl": "https://edge.forgecdn.net/files/7943/178/refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
+      "required": true
+    },
+    {
+      "projectID": 1156098,
+      "fileID": 8625982,
+      "downloadUrl": "https://edge.forgecdn.net/files/8625/982/ConstructionSticks-26.1.2-3.1.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 1621851,
+      "fileID": 8687297,
+      "downloadUrl": "https://edge.forgecdn.net/files/8687/297/Enhanced-Celestials-2-Shaders-NeoForge-26.1.2-3.0.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 314905,
+      "fileID": 8525871,
+      "downloadUrl": "https://edge.forgecdn.net/files/8525/871/ftb-ranks-neoforge-26.1.2.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 1118306,
+      "fileID": 8690433,
+      "downloadUrl": "https://edge.forgecdn.net/files/8690/433/EclipticSeasons-26.1.2-neoforge-0.14.99-beta-2.jar",
+      "required": true
+    },
+    {
+      "projectID": 943925,
+      "fileID": 8300191,
+      "downloadUrl": "https://edge.forgecdn.net/files/8300/191/ftb-filter-system-neoforge-26.1.2.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1598029,
+      "fileID": 8644772,
+      "downloadUrl": "https://edge.forgecdn.net/files/8644/772/jei_biome-26.1.2-neoforge-1.6fix.jar",
+      "required": true
+    },
+    {
+      "projectID": 510089,
+      "fileID": 8313765,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/765/YungsBetterDungeons-26.1.2-NeoForge-6.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 509339,
+      "fileID": 7148803,
+      "downloadUrl": "https://edge.forgecdn.net/files/7148/803/Fancy_Beds-v4.1.zip",
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 7854456,
+      "downloadUrl": "https://edge.forgecdn.net/files/7854/456/appleskin-neoforge-mc26.1-3.0.9.jar",
+      "required": true
+    },
+    {
+      "projectID": 241160,
+      "fileID": 7812877,
+      "downloadUrl": "https://edge.forgecdn.net/files/7812/877/netherportalfix-neoforge-26.1-26.1.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 858542,
+      "fileID": 8218526,
+      "downloadUrl": "https://edge.forgecdn.net/files/8218/526/Searchables-neoforge-26.1.2-1.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 631401,
+      "fileID": 8313832,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/832/YungsBetterWitchHuts-26.1.2-NeoForge-5.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 289412,
+      "fileID": 8685228,
+      "downloadUrl": "https://edge.forgecdn.net/files/8685/228/ftb-quests-neoforge-26.1.2.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 1532914,
+      "fileID": 8143372,
+      "downloadUrl": "https://edge.forgecdn.net/files/8143/372/bookoffamiliars-neoforge-26.1.2-2.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1568397,
+      "fileID": 8721010,
+      "downloadUrl": "https://edge.forgecdn.net/files/8721/10/ctm-26.1.2.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 377109,
+      "fileID": 8269716,
+      "downloadUrl": "https://edge.forgecdn.net/files/8269/716/ToolStats-neoforge-MC26.1.2-26.1.2.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 353882,
+      "fileID": 7961622,
+      "downloadUrl": "https://edge.forgecdn.net/files/7961/622/DimStorage-26.1.2-10.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 453763,
+      "fileID": 7854681,
+      "downloadUrl": "https://edge.forgecdn.net/files/7854/681/FreshAnimations_v1.10.5.zip",
+      "required": true
+    },
+    {
+      "projectID": 385587,
+      "fileID": 8123288,
+      "downloadUrl": "https://edge.forgecdn.net/files/8123/288/ComplementaryUnbound_r5.8.1.zip",
+      "required": true
+    },
+    {
+      "projectID": 885449,
+      "fileID": 7937982,
+      "downloadUrl": "https://edge.forgecdn.net/files/7937/982/epherolib-neoforge-26.1-1.3.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 404465,
+      "fileID": 8574542,
+      "downloadUrl": "https://edge.forgecdn.net/files/8574/542/ftb-library-neoforge-26.1.2.7.jar",
+      "required": true
+    },
+    {
+      "projectID": 404468,
+      "fileID": 8074003,
+      "downloadUrl": "https://edge.forgecdn.net/files/8074/3/ftb-teams-neoforge-26.1.2.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 852662,
+      "fileID": 8004645,
+      "downloadUrl": "https://edge.forgecdn.net/files/8004/645/OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 929559,
+      "fileID": 8216931,
+      "downloadUrl": "https://edge.forgecdn.net/files/8216/931/utilitarian-26.1.2-0.22.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 8571918,
+      "downloadUrl": "https://edge.forgecdn.net/files/8571/918/iris-neoforge-1.11.3%2bmc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 983707,
+      "fileID": 8058232,
+      "downloadUrl": "https://edge.forgecdn.net/files/8058/232/Fine%20Armoury%20v1.8.zip",
+      "required": true
+    },
+    {
+      "projectID": 559313,
+      "fileID": 8132173,
+      "downloadUrl": "https://edge.forgecdn.net/files/8132/173/aeinfinitybooster-neoforge-26.1.2-1.0.0.57.jar",
+      "required": true
+    },
+    {
+      "projectID": 367706,
+      "fileID": 8652295,
+      "downloadUrl": "https://edge.forgecdn.net/files/8652/295/fancymenu_neoforge_3.9.10_MC_26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 664124,
+      "fileID": 7808101,
+      "downloadUrl": "https://edge.forgecdn.net/files/7808/101/PingHUD-5.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 549225,
+      "fileID": 7964506,
+      "downloadUrl": "https://edge.forgecdn.net/files/7964/506/framework-neoforge-26.1.2-0.13.23.jar",
+      "required": true
+    },
+    {
+      "projectID": 1281029,
+      "fileID": 8245230,
+      "downloadUrl": "https://edge.forgecdn.net/files/8245/230/FA%2bPlayer-v1.1.zip",
+      "required": true
+    },
+    {
+      "projectID": 1171906,
+      "fileID": 7986696,
+      "downloadUrl": "https://edge.forgecdn.net/files/7986/696/nanite-library-neoforge-26.1.2.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 1252482,
+      "fileID": 8218522,
+      "downloadUrl": "https://edge.forgecdn.net/files/8218/522/EternalNether-v26.1.4-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 388172,
+      "fileID": 8327201,
+      "downloadUrl": "https://edge.forgecdn.net/files/8327/201/geckolib-neoforge-26.1.2-5.5.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1511109,
+      "fileID": 8570331,
+      "downloadUrl": "https://edge.forgecdn.net/files/8570/331/justenoughrecipesharing-neoforge-26.1.2-1.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 351264,
+      "fileID": 7736203,
+      "downloadUrl": "https://edge.forgecdn.net/files/7736/203/kotlinforforge-6.2.0-all.jar",
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 8646818,
+      "downloadUrl": "https://edge.forgecdn.net/files/8646/818/waystones-neoforge-26.1.2-26.1.2.14.jar",
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 8449857,
+      "downloadUrl": "https://edge.forgecdn.net/files/8449/857/xaerominimap-neoforge-26.1.2-26.4.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 8459799,
+      "downloadUrl": "https://edge.forgecdn.net/files/8459/799/modernfix-neoforge-5.27.20%2bmc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 841890,
+      "fileID": 7970442,
+      "downloadUrl": "https://edge.forgecdn.net/files/7970/442/athena-4.7.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 1101111,
+      "fileID": 8432928,
+      "downloadUrl": "https://edge.forgecdn.net/files/8432/928/irons_jewelry-26.1.2-2.0.2.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 629153,
+      "fileID": 7809974,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/974/mcw-paths-1.1.1-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1404763,
+      "fileID": 8725005,
+      "downloadUrl": "https://edge.forgecdn.net/files/8725/5/neovitae-26.1.2-1.1.15.jar",
+      "required": true
+    },
+    {
+      "projectID": 1650193,
+      "fileID": 8715148,
+      "downloadUrl": "https://edge.forgecdn.net/files/8715/148/irons_artifice-0.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1084468,
+      "fileID": 8021692,
+      "downloadUrl": "https://edge.forgecdn.net/files/8021/692/BHMenu-NeoForge-26.1-2.4.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 1187033,
+      "fileID": 8229127,
+      "downloadUrl": "https://edge.forgecdn.net/files/8229/127/crystalix-4.1.0%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 556861,
+      "fileID": 8723367,
+      "downloadUrl": "https://edge.forgecdn.net/files/8723/367/functionalstorage-26.1.2-1.6.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 577850,
+      "fileID": 8381262,
+      "downloadUrl": "https://edge.forgecdn.net/files/8381/262/crafting_on_a_stick-neoforge-26.1-1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 538392,
+      "fileID": 8594747,
+      "downloadUrl": "https://edge.forgecdn.net/files/8594/747/modonomicon-26.1.2-neoforge-2.3.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1002348,
+      "fileID": 8251776,
+      "downloadUrl": "https://edge.forgecdn.net/files/8251/776/justdirethings-1.6.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 1572988,
+      "fileID": 8236258,
+      "downloadUrl": "https://edge.forgecdn.net/files/8236/258/OpenTogether-v26.1.0-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1637623,
+      "fileID": 8568911,
+      "downloadUrl": "https://edge.forgecdn.net/files/8568/911/better-advanced-tooltips-2601.1.0-build.9.jar",
+      "required": true
+    },
+    {
+      "projectID": 254284,
+      "fileID": 7976888,
+      "downloadUrl": "https://edge.forgecdn.net/files/7976/888/AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 304346,
+      "fileID": 8017163,
+      "downloadUrl": "https://edge.forgecdn.net/files/8017/163/enderio_endergy-9.0.1-alpha.jar",
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 8651070,
+      "downloadUrl": "https://edge.forgecdn.net/files/8651/70/Jade-mc26.1-NeoForge-26.1.10.jar",
+      "required": true
+    },
+    {
+      "projectID": 915902,
+      "fileID": 8177588,
+      "downloadUrl": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 361026,
+      "fileID": 8697637,
+      "downloadUrl": "https://edge.forgecdn.net/files/8697/637/occultism-26.1.2-neoforge-1.248.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 626839,
+      "fileID": 8030110,
+      "downloadUrl": "https://edge.forgecdn.net/files/8030/110/laserio-1.10.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1475746,
+      "fileID": 8645595,
+      "downloadUrl": "https://edge.forgecdn.net/files/8645/595/shogi-neoforge-26.1.2-26.1.2.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 542110,
+      "fileID": 7931619,
+      "downloadUrl": "https://edge.forgecdn.net/files/7931/619/jumpboat-26.1.2-1.0.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 495476,
+      "fileID": 8581757,
+      "downloadUrl": "https://edge.forgecdn.net/files/8581/757/PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 8645640,
+      "downloadUrl": "https://edge.forgecdn.net/files/8645/640/balm-neoforge-26.1.2-26.1.2.12.jar",
+      "required": true
+    },
+    {
+      "projectID": 1621796,
+      "fileID": 8704055,
+      "downloadUrl": "https://edge.forgecdn.net/files/8704/55/Enhanced-Celestials-2-Core-NeoForge-26.1.2-3.0.3.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1203668,
+      "fileID": 8629343,
+      "downloadUrl": "https://edge.forgecdn.net/files/8629/343/dataanchor-neoforge-26.1.2-4.0.0.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 1535952,
+      "fileID": 8050616,
+      "downloadUrl": "https://edge.forgecdn.net/files/8050/616/BetterKeys.zip",
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 8522652,
+      "downloadUrl": "https://edge.forgecdn.net/files/8522/652/JustEnoughResources-NeoForge-26.1.2-1.10.1.40.jar",
+      "required": true
+    },
+    {
+      "projectID": 1154099,
+      "fileID": 8636696,
+      "downloadUrl": "https://edge.forgecdn.net/files/8636/696/CrashAssistant-neoforge-26.1-1.11.12.jar",
+      "required": true
+    },
+    {
+      "projectID": 415438,
+      "fileID": 8085081,
+      "downloadUrl": "https://edge.forgecdn.net/files/8085/81/croptopia-neoforge-26.1.2-4.3.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 340583,
+      "fileID": 8522499,
+      "downloadUrl": "https://edge.forgecdn.net/files/8522/499/YungsBetterCaves-26.1.2-NeoForge-4.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 938643,
+      "fileID": 7875755,
+      "downloadUrl": "https://edge.forgecdn.net/files/7875/755/melody_neoforge_1.0.16_MC_26.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1621820,
+      "fileID": 8704057,
+      "downloadUrl": "https://edge.forgecdn.net/files/8704/57/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-26.1.2-3.0.0.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 252848,
+      "fileID": 7808597,
+      "downloadUrl": "https://edge.forgecdn.net/files/7808/597/NaturesCompass-26.1-3.3.0-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 933200,
+      "fileID": 8371384,
+      "downloadUrl": "https://edge.forgecdn.net/files/8371/384/uilib-neoforge-20.1.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 478559,
+      "fileID": 7819739,
+      "downloadUrl": "https://edge.forgecdn.net/files/7819/739/Measurements-neoforge-26.1-4.0.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1346116,
+      "fileID": 7999323,
+      "downloadUrl": "https://edge.forgecdn.net/files/7999/323/FA%2bSpiders-v2.2.zip",
+      "required": true
+    },
+    {
+      "projectID": 1173950,
+      "fileID": 8204880,
+      "downloadUrl": "https://edge.forgecdn.net/files/8204/880/guideme-26.1.12-beta.jar",
+      "required": true
+    },
+    {
+      "projectID": 901344,
+      "fileID": 8313822,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/822/YungsBetterEndIsland-26.1.2-NeoForge-4.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 430636,
+      "fileID": 8494185,
+      "downloadUrl": "https://edge.forgecdn.net/files/8494/185/theurgy-26.1.2-neoforge-1.114.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 410295,
+      "fileID": 7891762,
+      "downloadUrl": "https://edge.forgecdn.net/files/7891/762/konkrete_neoforge_1.10.1_MC_26.1.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1214396,
+      "fileID": 8080581,
+      "downloadUrl": "https://edge.forgecdn.net/files/8080/581/camol-26.1.2-0.4.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 884709,
+      "fileID": 7094029,
+      "downloadUrl": "https://edge.forgecdn.net/files/7094/29/Fancy%20Crops%20v1.3.zip",
+      "required": true
+    },
+    {
+      "projectID": 261924,
+      "fileID": 8545425,
+      "downloadUrl": "https://edge.forgecdn.net/files/8545/425/farmingforblockheads-neoforge-26.1.2-26.1.2.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 8676045,
+      "downloadUrl": "https://edge.forgecdn.net/files/8676/45/jei-26.1.2-neoforge-29.29.0.77.jar",
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 8533275,
+      "downloadUrl": "https://edge.forgecdn.net/files/8533/275/lithium-neoforge-0.24.7%2bmc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 241319,
+      "fileID": 8661858,
+      "downloadUrl": "https://edge.forgecdn.net/files/8661/858/reliquary-26.1.2-2.0.92.1563.jar",
+      "required": true
+    },
+    {
+      "projectID": 1449802,
+      "fileID": 8350348,
+      "downloadUrl": "https://edge.forgecdn.net/files/8350/348/EclipticSeasons-Bundles-0.18.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 223794,
+      "fileID": 8257570,
+      "downloadUrl": "https://edge.forgecdn.net/files/8257/570/appliedenergistics2-26.1.10-beta.jar",
+      "required": true
+    },
+    {
+      "projectID": 1377938,
+      "fileID": 8567025,
+      "downloadUrl": "https://edge.forgecdn.net/files/8567/25/tools-on-my-back-1.1.0%2b26.1%2bneoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1084104,
+      "fileID": 8603081,
+      "downloadUrl": "https://edge.forgecdn.net/files/8603/81/AdvancedAE-26.1.7.jar",
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 7817583,
+      "downloadUrl": "https://edge.forgecdn.net/files/7817/583/cloth-config-26.1.154.jar",
+      "required": true
+    },
+    {
+      "projectID": 345779,
+      "fileID": 8572541,
+      "downloadUrl": "https://edge.forgecdn.net/files/8572/541/plonk-26.1.2-10.0.10-neo.jar",
+      "required": true
+    },
+    {
+      "projectID": 535489,
+      "fileID": 7903186,
+      "downloadUrl": "https://edge.forgecdn.net/files/7903/186/sound-physics-remastered-neoforge-1.5.1%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 465575,
+      "fileID": 8313758,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/758/YungsBetterStrongholds-26.1.2-NeoForge-6.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 8199001,
+      "downloadUrl": "https://edge.forgecdn.net/files/8199/1/Controlling-neoforge-26.1.2-26.1.2.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 1448257,
+      "fileID": 8419032,
+      "downloadUrl": "https://edge.forgecdn.net/files/8419/32/logisticsnetworks-26.1.2-1.9.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 883593,
+      "fileID": 8567639,
+      "downloadUrl": "https://edge.forgecdn.net/files/8567/639/arc-neoforge-20.2.10.jar",
+      "required": true
+    },
+    {
+      "projectID": 417645,
+      "fileID": 7966706,
+      "downloadUrl": "https://edge.forgecdn.net/files/7966/706/JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 220318,
+      "fileID": 8239932,
+      "downloadUrl": "https://edge.forgecdn.net/files/8239/932/BiomesOPlenty-neoforge-26.1.2-26.1.2.0.21.jar",
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 7911758,
+      "downloadUrl": "https://edge.forgecdn.net/files/7911/758/Clumps-neoforge-26.1.2-26.1.2.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 891324,
+      "fileID": 8031805,
+      "downloadUrl": "https://edge.forgecdn.net/files/8031/805/IllagerInvasion-v26.1.0-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 8495199,
+      "downloadUrl": "https://edge.forgecdn.net/files/8495/199/kubejs-neoforge-26.1.2-8.0.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 502372,
+      "fileID": 7809968,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/968/mcw-lights-1.1.5-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 982512,
+      "fileID": 8519408,
+      "downloadUrl": "https://edge.forgecdn.net/files/8519/408/ae2importexportcard-26.1.2-2.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 533097,
+      "fileID": 8646487,
+      "downloadUrl": "https://edge.forgecdn.net/files/8646/487/c2me-neoforge-mc26.1.2-0.4.0-alpha.0.98.jar",
+      "required": true
+    },
+    {
+      "projectID": 1067672,
+      "fileID": 8708203,
+      "downloadUrl": "https://edge.forgecdn.net/files/8708/203/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 618770,
+      "fileID": 7999817,
+      "downloadUrl": "https://edge.forgecdn.net/files/7999/817/paginatedadvancements-2.8.2%2b26.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1366146,
+      "fileID": 7947176,
+      "downloadUrl": "https://edge.forgecdn.net/files/7947/176/CoffeeGUI_1.20.2-26.1_release_v2.1.1.zip",
+      "required": true
+    },
+    {
+      "projectID": 352039,
+      "fileID": 7809972,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/972/mcw-roofs-2.3.2-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1367888,
+      "fileID": 8201379,
+      "downloadUrl": "https://edge.forgecdn.net/files/8201/379/leaderboards-26.1.2-NeoForge-2.0.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 1138140,
+      "fileID": 7933510,
+      "downloadUrl": "https://edge.forgecdn.net/files/7933/510/Better%20SB%20Upgrades-V1.2.zip",
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 8287117,
+      "downloadUrl": "https://edge.forgecdn.net/files/8287/117/entityculling-neoforge-1.10.5-mc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 8348737,
+      "downloadUrl": "https://edge.forgecdn.net/files/8348/737/ImmediatelyFast-NeoForge-1.15.3%2b26.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1145462,
+      "fileID": 8237338,
+      "downloadUrl": "https://edge.forgecdn.net/files/8237/338/atlas_api-26.1.2-1.2.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 570463,
+      "fileID": 8309126,
+      "downloadUrl": "https://edge.forgecdn.net/files/8309/126/Ecologics-NeoFab-26.1.2-2.5.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 1290912,
+      "fileID": 8050473,
+      "downloadUrl": "https://edge.forgecdn.net/files/8050/473/onlyflax-26.1.2-neoforge-1.0.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 475117,
+      "fileID": 8251041,
+      "downloadUrl": "https://edge.forgecdn.net/files/8251/41/FastSuite-26.1.2-7.0.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 898963,
+      "fileID": 8182592,
+      "downloadUrl": "https://edge.forgecdn.net/files/8182/592/ApothicAttributes-26.1.2-3.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 8463898,
+      "downloadUrl": "https://edge.forgecdn.net/files/8463/898/rhino-2101.2.8-build.91.jar",
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 7840778,
+      "downloadUrl": "https://edge.forgecdn.net/files/7840/778/MouseTweaks-neoforge-mc26.1-2.31.jar",
+      "required": true
+    },
+    {
+      "projectID": 892005,
+      "fileID": 8698967,
+      "downloadUrl": "https://edge.forgecdn.net/files/8698/967/ExtendedAE-26.1-1.0.4-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 940057,
+      "fileID": 8384529,
+      "downloadUrl": "https://edge.forgecdn.net/files/8384/529/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 626761,
+      "fileID": 7886369,
+      "downloadUrl": "https://edge.forgecdn.net/files/7886/369/t_and_t-fabric-neoforge-1.13.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 421850,
+      "fileID": 8685896,
+      "downloadUrl": "https://edge.forgecdn.net/files/8685/896/YungsApi-26.1.2-NeoForge-6.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 389665,
+      "fileID": 8309061,
+      "downloadUrl": "https://edge.forgecdn.net/files/8309/61/YungsBetterMineshafts-26.1.2-NeoForge-6.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 986583,
+      "fileID": 8529719,
+      "downloadUrl": "https://edge.forgecdn.net/files/8529/719/ApothicSpawners-26.1.2-2.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 287342,
+      "fileID": 8671128,
+      "downloadUrl": "https://edge.forgecdn.net/files/8671/128/titanium-26.1.2-4.0.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 669659,
+      "fileID": 8617114,
+      "downloadUrl": "https://edge.forgecdn.net/files/8617/114/mru-1.0.33%2b26.1.2-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 8601510,
+      "downloadUrl": "https://edge.forgecdn.net/files/8601/510/voicechat-neoforge-2.6.22%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 551894,
+      "fileID": 7905240,
+      "downloadUrl": "https://edge.forgecdn.net/files/7905/240/better-compatability-checker-neoforge-26.1.2.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 916747,
+      "fileID": 8252649,
+      "downloadUrl": "https://edge.forgecdn.net/files/8252/649/shatterlib-neoforge-0.7.0%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 277616,
+      "fileID": 7810780,
+      "downloadUrl": "https://edge.forgecdn.net/files/7810/780/solcarrot-26.1-1.19.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1492763,
+      "fileID": 8678532,
+      "downloadUrl": "https://edge.forgecdn.net/files/8678/532/irons_lib-26.1.2-2.1.0.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 8396481,
+      "downloadUrl": "https://edge.forgecdn.net/files/8396/481/sodium-neoforge-0.9.1%2bmc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1063926,
+      "fileID": 8171092,
+      "downloadUrl": "https://edge.forgecdn.net/files/8171/92/ApothicEnchanting-26.1.2-2.0.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1476693,
+      "fileID": 8375713,
+      "downloadUrl": "https://edge.forgecdn.net/files/8375/713/ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar",
+      "required": true
+    },
+    {
+      "projectID": 351725,
+      "fileID": 7809923,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/923/mcw-bridges-3.1.2-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 8502256,
+      "downloadUrl": "https://edge.forgecdn.net/files/8502/256/Placebo-26.1.2-10.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 576589,
+      "fileID": 8596523,
+      "downloadUrl": "https://edge.forgecdn.net/files/8596/523/polylib-neoforge-26.1.2-2.0.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 60028,
+      "fileID": 8192770,
+      "downloadUrl": "https://edge.forgecdn.net/files/8192/770/Aquaculture-26.1.1-2.9.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 514796,
+      "fileID": 8212221,
+      "downloadUrl": "https://edge.forgecdn.net/files/8212/221/beautifiedchatserver-26.1.2-3.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 890755,
+      "fileID": 8525687,
+      "downloadUrl": "https://edge.forgecdn.net/files/8525/687/jearchaeology-26.1.2-1.3.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 368825,
+      "fileID": 8697002,
+      "downloadUrl": "https://edge.forgecdn.net/files/8697/2/inventoryessentials-neoforge-26.1.2-26.1.2.5.jar",
+      "required": true
+    },
+    {
+      "projectID": 361579,
+      "fileID": 8275631,
+      "downloadUrl": "https://edge.forgecdn.net/files/8275/631/spark-1.10.173-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1180560,
+      "fileID": 8550648,
+      "downloadUrl": "https://edge.forgecdn.net/files/8550/648/little-big-redstone-1.9.8-alpha-26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 400933,
+      "fileID": 7809970,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/970/mcw-trapdoors-1.1.5-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 536660,
+      "fileID": 8313848,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/848/YungsBridges-26.1.2-NeoForge-6.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1356330,
+      "fileID": 7965669,
+      "downloadUrl": "https://edge.forgecdn.net/files/7965/669/Boss%20Bars%20Reforged%20v1.2.zip",
+      "required": true
+    },
+    {
+      "projectID": 429235,
+      "fileID": 7806039,
+      "downloadUrl": "https://edge.forgecdn.net/files/7806/39/ferritecore-9.0.0-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1452982,
+      "fileID": 8218682,
+      "downloadUrl": "https://edge.forgecdn.net/files/8218/682/fwa%2b26.1.2-neoforge-1.2.30.jar",
+      "required": true
+    },
+    {
+      "projectID": 1467647,
+      "fileID": 8591211,
+      "downloadUrl": "https://edge.forgecdn.net/files/8591/211/itempeek-mc26.1.2-1.2.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 257814,
+      "fileID": 8127306,
+      "downloadUrl": "https://edge.forgecdn.net/files/8127/306/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1357603,
+      "fileID": 8183439,
+      "downloadUrl": "https://edge.forgecdn.net/files/8183/439/starcatcher-2.3.14-NEOFORGE-26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 570431,
+      "fileID": 8020647,
+      "downloadUrl": "https://edge.forgecdn.net/files/8020/647/trade-cycling-neoforge-1.0.21%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 633483,
+      "fileID": 8025339,
+      "downloadUrl": "https://edge.forgecdn.net/files/8025/339/Powah-7.0.4-alpha.jar",
+      "required": true
+    },
+    {
+      "projectID": 1326436,
+      "fileID": 8119759,
+      "downloadUrl": "https://edge.forgecdn.net/files/8119/759/fancytoasts-neoforge-26.1.x-1.4.7.jar",
+      "required": true
+    },
+    {
+      "projectID": 925889,
+      "fileID": 8343036,
+      "downloadUrl": "https://edge.forgecdn.net/files/8343/36/sounds-2.5.1%2blts%2b26.1.2-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 961856,
+      "fileID": 8127472,
+      "downloadUrl": "https://edge.forgecdn.net/files/8127/472/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 738663,
+      "fileID": 8279006,
+      "downloadUrl": "https://edge.forgecdn.net/files/8279/6/nerb-neoforge-0.4.3%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 631016,
+      "fileID": 8313776,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/776/YungsBetterDesertTemples-26.1.2-NeoForge-5.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1288799,
+      "fileID": 7983714,
+      "downloadUrl": "https://edge.forgecdn.net/files/7983/714/mechtrowel-1.3.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 386134,
+      "fileID": 8231335,
+      "downloadUrl": "https://edge.forgecdn.net/files/8231/335/ftb-ultimine-neoforge-26.1.2.5.jar",
+      "required": true
+    },
+    {
+      "projectID": 681606,
+      "fileID": 7958494,
+      "downloadUrl": "https://edge.forgecdn.net/files/7958/494/just-hammers-neoforge-26.1.2.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1023259,
+      "fileID": 8397189,
+      "downloadUrl": "https://edge.forgecdn.net/files/8397/189/PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 457570,
+      "fileID": 7943180,
+      "downloadUrl": "https://edge.forgecdn.net/files/7943/180/configured-neoforge-26.1.2-2.7.5.jar",
+      "required": true
+    },
+    {
+      "projectID": 574123,
+      "fileID": 8351344,
+      "downloadUrl": "https://edge.forgecdn.net/files/8351/344/darkmodeeverywhere-neoforge-26.1.2-26.1.2-2.0.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 410811,
+      "fileID": 8187009,
+      "downloadUrl": "https://edge.forgecdn.net/files/8187/9/ftb-essentials-neoforge-26.1.2.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 679106,
+      "fileID": 7619105,
+      "downloadUrl": "https://edge.forgecdn.net/files/7619/105/Visual%20Titles%201.3.zip",
+      "required": true
+    },
+    {
+      "projectID": 1206722,
+      "fileID": 8340375,
+      "downloadUrl": "https://edge.forgecdn.net/files/8340/375/animal_pen-neoforge-26.1-2.4.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 453925,
+      "fileID": 7809939,
+      "downloadUrl": "https://edge.forgecdn.net/files/7809/939/mcw-fences-1.2.1-mc26.1neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 351441,
+      "fileID": 8004596,
+      "downloadUrl": "https://edge.forgecdn.net/files/8004/596/PickUpNotifier-v26.1.1-mc26.1.x-NeoForge.jar",
+      "required": true
+    },
+    {
+      "projectID": 856996,
+      "fileID": 8452324,
+      "downloadUrl": "https://edge.forgecdn.net/files/8452/324/cristellib-neoforge-26.1.2-3.1.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 459701,
+      "fileID": 7943161,
+      "downloadUrl": "https://edge.forgecdn.net/files/7943/161/catalogue-neoforge-26.1.2-1.12.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 892086,
+      "fileID": 8375990,
+      "downloadUrl": "https://edge.forgecdn.net/files/8375/990/chatanimation-neoforge-1.3.0%2bmc26.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 638508,
+      "fileID": 7961578,
+      "downloadUrl": "https://edge.forgecdn.net/files/7961/578/EdivadLib-26.1.2-4.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 358700,
+      "fileID": 7945781,
+      "downloadUrl": "https://edge.forgecdn.net/files/7945/781/moredragoneggs-6.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 431430,
+      "fileID": 7808426,
+      "downloadUrl": "https://edge.forgecdn.net/files/7808/426/flickerfix-26.1-7.0.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 686836,
+      "fileID": 8366293,
+      "downloadUrl": "https://edge.forgecdn.net/files/8366/293/tectonic-3.0.27-neoforge-26.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 568563,
+      "fileID": 7930640,
+      "downloadUrl": "https://edge.forgecdn.net/files/7930/640/entity_texture_features_26.1-neoforge-7.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1393337,
+      "fileID": 7947547,
+      "downloadUrl": "https://edge.forgecdn.net/files/7947/547/CoffeeGUI_JustTheHotbar_v03.zip",
+      "required": true
+    },
+    {
+      "projectID": 233019,
+      "fileID": 7878374,
+      "downloadUrl": "https://edge.forgecdn.net/files/7878/374/AI-Improvements-26.1.1-0.5.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 417802,
+      "fileID": 8502258,
+      "downloadUrl": "https://edge.forgecdn.net/files/8502/258/GatewaysToEternity-26.1.2-6.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 619320,
+      "fileID": 8687885,
+      "downloadUrl": "https://edge.forgecdn.net/files/8687/885/sophisticatedstorage-26.1.2-1.5.112.2123.jar",
+      "required": true
+    },
+    {
+      "projectID": 521594,
+      "fileID": 8294892,
+      "downloadUrl": "https://edge.forgecdn.net/files/8294/892/waveycapes-neoforge-1.10.2-mc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 317134,
+      "fileID": 7819553,
+      "downloadUrl": "https://edge.forgecdn.net/files/7819/553/globalpacks-neoforge-26.1-26.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 689238,
+      "fileID": 8313787,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/787/YungsBetterOceanMonuments-26.1.2-NeoForge-5.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 361276,
+      "fileID": 8483817,
+      "downloadUrl": "https://edge.forgecdn.net/files/8483/817/lootr-neoforge-26.1.2-1.23.38.120.jar",
+      "required": true
+    },
+    {
+      "projectID": 835687,
+      "fileID": 8577326,
+      "downloadUrl": "https://edge.forgecdn.net/files/8577/326/betterarcheology-neoforge-26.1.2-1.3.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 1061342,
+      "fileID": 8230145,
+      "downloadUrl": "https://edge.forgecdn.net/files/8230/145/Brush%2bJuice-5.4.0.zip",
+      "required": true
+    },
+    {
+      "projectID": 312353,
+      "fileID": 8683973,
+      "downloadUrl": "https://edge.forgecdn.net/files/8683/973/artifacts-neoforge-15.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1264423,
+      "fileID": 8010963,
+      "downloadUrl": "https://edge.forgecdn.net/files/8010/963/baguettelib-26.1.2-NeoForge-2.0.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 225236,
+      "fileID": 8688521,
+      "downloadUrl": "https://edge.forgecdn.net/files/8688/521/chisel-26.1.2.17.jar",
+      "required": true
+    },
+    {
+      "projectID": 618298,
+      "fileID": 8705495,
+      "downloadUrl": "https://edge.forgecdn.net/files/8705/495/sophisticatedcore-26.1.2-1.4.104.2314.jar",
+      "required": true
+    },
+    {
+      "projectID": 431203,
+      "fileID": 8081726,
+      "downloadUrl": "https://edge.forgecdn.net/files/8081/726/MakeUp-UltraFast-9.5a.zip",
+      "required": true
+    },
+    {
+      "projectID": 313970,
+      "fileID": 8502264,
+      "downloadUrl": "https://edge.forgecdn.net/files/8502/264/Apotheosis-26.1.2-9.0.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 1170464,
+      "fileID": 8658826,
+      "downloadUrl": "https://edge.forgecdn.net/files/8658/826/reskillable-2.0.3-26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 817651,
+      "fileID": 8313796,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/796/YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 844662,
+      "fileID": 8063579,
+      "downloadUrl": "https://edge.forgecdn.net/files/8063/579/entity_model_features-3.2.4-26.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "projectID": 1646227,
+      "fileID": 8679719,
+      "downloadUrl": "https://edge.forgecdn.net/files/8679/719/graveless-neoforge-26.1.2-1.3.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 334853,
+      "fileID": 7958434,
+      "downloadUrl": "https://edge.forgecdn.net/files/7958/434/SimpleDiscordRichPresence-neoforge-26.1.2.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 480006,
+      "fileID": 8313845,
+      "downloadUrl": "https://edge.forgecdn.net/files/8313/845/YungsExtras-26.1.2-NeoForge-6.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 371813,
+      "fileID": 7923031,
+      "downloadUrl": "https://edge.forgecdn.net/files/7923/31/crashutilities-10.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 250832,
+      "fileID": 7830638,
+      "downloadUrl": "https://edge.forgecdn.net/files/7830/638/elevatorid-neoforge-26.1-1.16.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 887774,
+      "fileID": 8249940,
+      "downloadUrl": "https://edge.forgecdn.net/files/8249/940/itemrestrictions-neoforge-20.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 908310,
+      "fileID": 7974152,
+      "downloadUrl": "https://edge.forgecdn.net/files/7974/152/WaystonesTeleportPets-1.2-neoforge-26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1470052,
+      "fileID": 8553438,
+      "downloadUrl": "https://edge.forgecdn.net/files/8553/438/knot-neoforge-core-20.2.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 986380,
+      "fileID": 8118229,
+      "downloadUrl": "https://edge.forgecdn.net/files/8118/229/lighty-neoforge-4.0.1%2b26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 233071,
+      "fileID": 8697035,
+      "downloadUrl": "https://edge.forgecdn.net/files/8697/35/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 8404376,
+      "downloadUrl": "https://edge.forgecdn.net/files/8404/376/sodium-extra-neoforge-0.9.3%2bmc26.1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 8513969,
+      "downloadUrl": "https://edge.forgecdn.net/files/8513/969/architectury-neoforge-20.0.12.jar",
+      "required": true
+    },
+    {
+      "projectID": 441647,
+      "fileID": 8371586,
+      "downloadUrl": "https://edge.forgecdn.net/files/8371/586/FramedBlocks-11.3.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 280510,
+      "fileID": 8383507,
+      "downloadUrl": "https://edge.forgecdn.net/files/8383/507/AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 232131,
+      "fileID": 8498224,
+      "downloadUrl": "https://edge.forgecdn.net/files/8498/224/defaultoptions-neoforge-26.1.2-26.1.2.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 64578,
+      "fileID": 8192909,
+      "downloadUrl": "https://edge.forgecdn.net/files/8192/909/enderio-9.0.5-alpha.jar",
+      "required": true
+    },
+    {
+      "projectID": 1111586,
+      "fileID": 8686283,
+      "downloadUrl": "https://edge.forgecdn.net/files/8686/283/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
