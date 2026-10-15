@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-14T18:29:43.161Z",
+  "generatedAt": "2026-10-15T14:50:48.040Z",
   "minecraft": {
     "version": "26.1.2",
     "loader": {
@@ -1230,6 +1230,156 @@
       "path": "mods/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/mods/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
       "sha256": "2bff32a14a2945adaa6aa752a0fa1a9da3d410cebaf1fe1b354a9a7ba820412b"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/button_configuracion_azul.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/button_configuracion_azul.png",
+      "sha256": "6fd9e7746c693795ccfdcba269f1a0bdd2183bd9a840a10dbae6046a0e2d5efd"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/button_jugar_dorado.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/button_jugar_dorado.png",
+      "sha256": "4c56e5da44bdae7d43a892da126bab4b1bb4e3b0481bd12fb0278101bfbb1f4a"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/button_salir_oscuro.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/button_salir_oscuro.png",
+      "sha256": "714594b95844cbf08a7dfd9df16fe688e8ebb00105af92f97d39257e21e20669"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/config_salir_boton.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/config_salir_boton.png",
+      "sha256": "0659fea6201cad3df97cdcb4a3bb9e40e67f309d7c0e03a0f2a0966fa25bb283"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/config_salir_boton_activ.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/config_salir_boton_activ.png",
+      "sha256": "ef269d3348ca34603631805c3cff559ebfa65def2ebfd782fb41bc7f0977c46d"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/fondo_huevoss.jpg",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/fondo_huevoss.jpg",
+      "sha256": "7f0f97aad06ac74f6245b745a55aad986ef4c9dbe9328626c1df3b08839e9bb0"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/jugar_boton.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/jugar_boton.png",
+      "sha256": "a51c3d70f24746014030feab168bfab1af3838c852d2c80bfb3c9b4998bdf755"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/jugar_boton_active.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/jugar_boton_active.png",
+      "sha256": "70c48004510e8d2f195f5b3924024f4d2a00b7d6fe23720a20ad1c23d0d81eb2"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/preview_menu_concept.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/preview_menu_concept.png",
+      "sha256": "9551e785f1a32c43bce23f5030bd366d5a0b27661baad78ff3571f95e6f27aa2"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/salir_boton.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/salir_boton.png",
+      "sha256": "776a780ae42b365c802d259ba1ff50bebb38baa244c59552872a6d6829bfa099"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/salir_boton_activ.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/salir_boton_activ.png",
+      "sha256": "900e8fb8ee8cb762b41724c25f9cf9608973ff8f8c47ec6ffeade1605ed4a91b"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/valle_fondo.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/valle_fondo.png",
+      "sha256": "afbf6122fad688292b3ecf8de329d0fa91c365d82ab96199eab5ac6f80ee788a"
+    },
+    {
+      "path": "config/fancymenu/assets/assets/wbcl.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/wbcl.png",
+      "sha256": "4aa61282ebc07abce539d1727362da2b16f658888316b595d3b82df643d00c06"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/customizablemenus.txt",
+      "sha256": "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout_webos.txt",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/customization/title_screen_layout_webos.txt",
+      "sha256": "fe4799c2d8ea822f32a9eb33b2d2be074173418b98b72b224557414b6e5e9a80"
+    },
+    {
+      "path": "config/fancymenu/customization/universal_layout_webos.txt",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/customization/universal_layout_webos.txt",
+      "sha256": "f68b8f4d66655ca95311676dc74d58f9eb042cd2c3f7860e04364036a3b1c449"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/custom_gui_screens.txt",
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha256": "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/options.txt",
+      "sha256": "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/dark.json",
+      "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/light.json",
+      "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/purple_void.json",
+      "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/ui_themes/spooky_season.json",
+      "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/user_variables.db",
+      "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
     },
     {
       "path": "versions/neoforge-26.1.2.97/neoforge-26.1.2.97.json",
