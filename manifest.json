@@ -1,19 +1,17 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-15T15:08:40.971Z",
+  "generatedAt": "2026-10-17T06:12:04.003Z",
   "minecraft": {
     "version": "26.1.2",
     "loader": {
-      "type": "custom",
-      "id": "neoforge-26.1.2.97",
-      "version": "latest"
+      "type": "neoforge",
+      "version": "26.1.2.97"
     }
   },
   "prune": [
     "mods",
     "resourcepacks",
-    "shaderpacks",
-    "versions"
+    "shaderpacks"
   ],
   "files": [
     {
@@ -1232,6 +1230,11 @@
       "sha256": "2bff32a14a2945adaa6aa752a0fa1a9da3d410cebaf1fe1b354a9a7ba820412b"
     },
     {
+      "path": "config/fancymenu/assets/assets/angell.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/angell.png",
+      "sha256": "2dae4d22d663bdcf13da30e8476eabcf8f7f41c8429186f6477ece67787cf835"
+    },
+    {
       "path": "config/fancymenu/assets/assets/button_configuracion_azul.png",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/button_configuracion_azul.png",
       "sha256": "6fd9e7746c693795ccfdcba269f1a0bdd2183bd9a840a10dbae6046a0e2d5efd"
@@ -1297,6 +1300,11 @@
       "sha256": "4aa61282ebc07abce539d1727362da2b16f658888316b595d3b82df643d00c06"
     },
     {
+      "path": "config/fancymenu/assets/assets/yamegg.png",
+      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/assets/assets/yamegg.png",
+      "sha256": "da752c60898b2082b0858f95446f11f12c03e12a07fdbc3840c75aa5be128ef4"
+    },
+    {
       "path": "config/fancymenu/customizablemenus.txt",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/customizablemenus.txt",
       "sha256": "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
@@ -1304,7 +1312,7 @@
     {
       "path": "config/fancymenu/customization/title_screen_layout_webos.txt",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/customization/title_screen_layout_webos.txt",
-      "sha256": "fe4799c2d8ea822f32a9eb33b2d2be074173418b98b72b224557414b6e5e9a80"
+      "sha256": "e38282da052ef70a9f7e56f8bb2cce930a8f3302e69bdd9375a10986f767c177"
     },
     {
       "path": "config/fancymenu/customization/universal_layout_webos.txt",
@@ -1329,7 +1337,7 @@
     {
       "path": "config/fancymenu/options.txt",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/options.txt",
-      "sha256": "6df834ff0756d1d57f5ff20abcc8d5e716f7736fe38f83f390d5b4f539b407ab"
+      "sha256": "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
@@ -1380,11 +1388,6 @@
       "path": "config/fancymenu/user_variables.db",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/user_variables.db",
       "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-    },
-    {
-      "path": "versions/neoforge-26.1.2.97/neoforge-26.1.2.97.json",
-      "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/versions/neoforge-26.1.2.97/neoforge-26.1.2.97.json",
-      "sha256": "247993b2116c5cb523dada749c68d34f46183540036c13be863010922c3fc805"
     }
   ]
 }
