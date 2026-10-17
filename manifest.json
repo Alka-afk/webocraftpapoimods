@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-17T06:12:04.003Z",
+  "generatedAt": "2026-10-17T06:26:54.220Z",
   "minecraft": {
     "version": "26.1.2",
     "loader": {
@@ -1312,7 +1312,7 @@
     {
       "path": "config/fancymenu/customization/title_screen_layout_webos.txt",
       "url": "https://raw.githubusercontent.com/Alka-afk/webocraftpapoimods/main/config/fancymenu/customization/title_screen_layout_webos.txt",
-      "sha256": "e38282da052ef70a9f7e56f8bb2cce930a8f3302e69bdd9375a10986f767c177"
+      "sha256": "131594d0524f532b7fb4b48c652ba0578f2fa1163dae492f748c7d0d548ef83d"
     },
     {
       "path": "config/fancymenu/customization/universal_layout_webos.txt",
